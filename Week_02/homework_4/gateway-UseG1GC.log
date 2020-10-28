@@ -1,0 +1,42 @@
+[10ms] Heap region size: 2M
+[26ms] Using G1
+[26ms] Heap address: 0x00000006fa000000, size: 4192 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+[921ms] GC(0) Pause Young (Normal) (GCLocker Initiated GC)
+[921ms] GC(0) Using 10 workers of 10 for evacuation
+[928ms] GC(0)   Pre Evacuate Collection Set: 0.0ms
+[928ms] GC(0)   Evacuate Collection Set: 5.1ms
+[928ms] GC(0)   Post Evacuate Collection Set: 0.8ms
+[928ms] GC(0)   Other: 0.8ms
+[928ms] GC(0) Eden regions: 104->0(137)
+[928ms] GC(0) Survivor regions: 0->3(13)
+[928ms] GC(0) Old regions: 0->0
+[928ms] GC(0) Humongous regions: 0->0
+[928ms] GC(0) Metaspace: 21245K->21245K(114688K)
+[928ms] GC(0) Pause Young (Normal) (GCLocker Initiated GC) 208M->5M(4192M) 6.911ms
+[928ms] GC(0) User=0.05s Sys=0.00s Real=0.01s
+[1936ms] GC(1) Pause Young (Normal) (G1 Evacuation Pause)
+[1936ms] GC(1) Using 10 workers of 10 for evacuation
+[1945ms] GC(1)   Pre Evacuate Collection Set: 0.0ms
+[1945ms] GC(1)   Evacuate Collection Set: 8.1ms
+[1945ms] GC(1)   Post Evacuate Collection Set: 1.0ms
+[1945ms] GC(1)   Other: 0.2ms
+[1945ms] GC(1) Eden regions: 137->0(141)
+[1945ms] GC(1) Survivor regions: 3->6(18)
+[1945ms] GC(1) Old regions: 0->0
+[1945ms] GC(1) Humongous regions: 0->0
+[1945ms] GC(1) Metaspace: 34161K->34161K(124928K)
+[1945ms] GC(1) Pause Young (Normal) (G1 Evacuation Pause) 279M->10M(4192M) 9.489ms
+[1945ms] GC(1) User=0.09s Sys=0.01s Real=0.01s
+[907652ms] GC(2) Pause Young (Normal) (G1 Evacuation Pause)
+[907652ms] GC(2) Using 10 workers of 10 for evacuation
+[907664ms] GC(2)   Pre Evacuate Collection Set: 0.0ms
+[907664ms] GC(2)   Evacuate Collection Set: 10.8ms
+[907664ms] GC(2)   Post Evacuate Collection Set: 1.1ms
+[907664ms] GC(2)   Other: 0.2ms
+[907664ms] GC(2) Eden regions: 141->0(158)
+[907664ms] GC(2) Survivor regions: 6->9(19)
+[907664ms] GC(2) Old regions: 0->0
+[907664ms] GC(2) Humongous regions: 0->0
+[907664ms] GC(2) Metaspace: 41988K->41988K(133120K)
+[907664ms] GC(2) Pause Young (Normal) (G1 Evacuation Pause) 292M->17M(4192M) 12.274ms
+[907664ms] GC(2) User=0.08s Sys=0.02s Real=0.01s

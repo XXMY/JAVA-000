@@ -1,0 +1,707 @@
+[14ms] Using Serial
+[14ms] Heap address: 0x00000006fa000000, size: 4192 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+[2889ms] GC(0) Pause Young (Allocation Failure)
+[2947ms] GC(0) DefNew: 1144768K->19203K(1287808K)
+[2947ms] GC(0) Tenured: 0K->0K(2861760K)
+[2947ms] GC(0) Metaspace: 40747K->40747K(131072K)
+[2947ms] GC(0) Pause Young (Allocation Failure) 1117M->18M(4052M) 58.079ms
+[2947ms] GC(0) User=0.16s Sys=0.00s Real=0.06s
+[16625ms] GC(1) Pause Young (Allocation Failure)
+[16692ms] GC(1) DefNew: 1163971K->38766K(1287808K)
+[16692ms] GC(1) Tenured: 0K->0K(2861760K)
+[16692ms] GC(1) Metaspace: 43017K->43017K(133120K)
+[16693ms] GC(1) Pause Young (Allocation Failure) 1136M->37M(4052M) 67.579ms
+[16693ms] GC(1) User=0.12s Sys=0.02s Real=0.06s
+[19872ms] GC(2) Pause Young (Allocation Failure)
+[19916ms] GC(2) DefNew: 1183534K->38782K(1287808K)
+[19916ms] GC(2) Tenured: 0K->0K(2861760K)
+[19916ms] GC(2) Metaspace: 43535K->43535K(135168K)
+[19916ms] GC(2) Pause Young (Allocation Failure) 1155M->37M(4052M) 44.033ms
+[19916ms] GC(2) User=0.05s Sys=0.00s Real=0.05s
+[21727ms] GC(3) Pause Young (Allocation Failure)
+[21761ms] GC(3) DefNew: 1183550K->38841K(1287808K)
+[21761ms] GC(3) Tenured: 0K->0K(2861760K)
+[21761ms] GC(3) Metaspace: 44074K->44074K(135168K)
+[21761ms] GC(3) Pause Young (Allocation Failure) 1155M->37M(4052M) 33.855ms
+[21761ms] GC(3) User=0.04s Sys=0.00s Real=0.03s
+[23067ms] GC(4) Pause Young (Allocation Failure)
+[23099ms] GC(4) DefNew: 1183609K->38816K(1287808K)
+[23099ms] GC(4) Tenured: 0K->0K(2861760K)
+[23099ms] GC(4) Metaspace: 44110K->44110K(135168K)
+[23099ms] GC(4) Pause Young (Allocation Failure) 1155M->37M(4052M) 31.578ms
+[23099ms] GC(4) User=0.03s Sys=0.00s Real=0.03s
+[24559ms] GC(5) Pause Young (Allocation Failure)
+[24591ms] GC(5) DefNew: 1183584K->38804K(1287808K)
+[24591ms] GC(5) Tenured: 0K->0K(2861760K)
+[24591ms] GC(5) Metaspace: 44111K->44111K(135168K)
+[24591ms] GC(5) Pause Young (Allocation Failure) 1155M->37M(4052M) 31.636ms
+[24591ms] GC(5) User=0.04s Sys=0.00s Real=0.03s
+[26028ms] GC(6) Pause Young (Allocation Failure)
+[26060ms] GC(6) DefNew: 1183572K->38808K(1287808K)
+[26061ms] GC(6) Tenured: 0K->0K(2861760K)
+[26061ms] GC(6) Metaspace: 44111K->44111K(135168K)
+[26061ms] GC(6) Pause Young (Allocation Failure) 1155M->37M(4052M) 32.130ms
+[26061ms] GC(6) User=0.04s Sys=0.00s Real=0.03s
+[27489ms] GC(7) Pause Young (Allocation Failure)
+[27522ms] GC(7) DefNew: 1183576K->38796K(1287808K)
+[27522ms] GC(7) Tenured: 0K->0K(2861760K)
+[27522ms] GC(7) Metaspace: 44112K->44112K(135168K)
+[27522ms] GC(7) Pause Young (Allocation Failure) 1155M->37M(4052M) 33.051ms
+[27522ms] GC(7) User=0.07s Sys=0.01s Real=0.03s
+[28845ms] GC(8) Pause Young (Allocation Failure)
+[28877ms] GC(8) DefNew: 1183564K->38789K(1287808K)
+[28877ms] GC(8) Tenured: 0K->0K(2861760K)
+[28877ms] GC(8) Metaspace: 44112K->44112K(135168K)
+[28877ms] GC(8) Pause Young (Allocation Failure) 1155M->37M(4052M) 32.475ms
+[28877ms] GC(8) User=0.03s Sys=0.00s Real=0.03s
+[30308ms] GC(9) Pause Young (Allocation Failure)
+[30340ms] GC(9) DefNew: 1183557K->38862K(1287808K)
+[30340ms] GC(9) Tenured: 0K->0K(2861760K)
+[30340ms] GC(9) Metaspace: 44113K->44113K(135168K)
+[30340ms] GC(9) Pause Young (Allocation Failure) 1155M->37M(4052M) 31.902ms
+[30340ms] GC(9) User=0.03s Sys=0.00s Real=0.03s
+[31775ms] GC(10) Pause Young (Allocation Failure)
+[31809ms] GC(10) DefNew: 1183630K->38779K(1287808K)
+[31809ms] GC(10) Tenured: 0K->0K(2861760K)
+[31809ms] GC(10) Metaspace: 44118K->44118K(135168K)
+[31809ms] GC(10) Pause Young (Allocation Failure) 1155M->37M(4052M) 33.257ms
+[31809ms] GC(10) User=0.06s Sys=0.00s Real=0.03s
+[33143ms] GC(11) Pause Young (Allocation Failure)
+[33176ms] GC(11) DefNew: 1183547K->38764K(1287808K)
+[33176ms] GC(11) Tenured: 0K->0K(2861760K)
+[33176ms] GC(11) Metaspace: 44124K->44124K(135168K)
+[33176ms] GC(11) Pause Young (Allocation Failure) 1155M->37M(4052M) 32.960ms
+[33176ms] GC(11) User=0.03s Sys=0.00s Real=0.04s
+[34603ms] GC(12) Pause Young (Allocation Failure)
+[34634ms] GC(12) DefNew: 1183532K->38811K(1287808K)
+[34634ms] GC(12) Tenured: 0K->0K(2861760K)
+[34634ms] GC(12) Metaspace: 44125K->44125K(135168K)
+[34634ms] GC(12) Pause Young (Allocation Failure) 1155M->37M(4052M) 30.816ms
+[34634ms] GC(12) User=0.04s Sys=0.00s Real=0.04s
+[35960ms] GC(13) Pause Young (Allocation Failure)
+[35994ms] GC(13) DefNew: 1183579K->38800K(1287808K)
+[35994ms] GC(13) Tenured: 0K->0K(2861760K)
+[35994ms] GC(13) Metaspace: 44126K->44126K(135168K)
+[35994ms] GC(13) Pause Young (Allocation Failure) 1155M->37M(4052M) 33.780ms
+[35994ms] GC(13) User=0.03s Sys=0.00s Real=0.04s
+[37253ms] GC(14) Pause Young (Allocation Failure)
+[37287ms] GC(14) DefNew: 1183568K->38794K(1287808K)
+[37287ms] GC(14) Tenured: 0K->0K(2861760K)
+[37287ms] GC(14) Metaspace: 44126K->44126K(135168K)
+[37287ms] GC(14) Pause Young (Allocation Failure) 1155M->37M(4052M) 33.394ms
+[37287ms] GC(14) User=0.04s Sys=0.00s Real=0.04s
+[38286ms] GC(15) Pause Young (Allocation Failure)
+[38328ms] GC(15) DefNew: 1183562K->22375K(1287808K)
+[38328ms] GC(15) Tenured: 0K->16444K(2861760K)
+[38328ms] GC(15) Metaspace: 44126K->44126K(135168K)
+[38328ms] GC(15) Pause Young (Allocation Failure) 1155M->37M(4052M) 42.532ms
+[38328ms] GC(15) User=0.05s Sys=0.01s Real=0.04s
+[39352ms] GC(16) Pause Young (Allocation Failure)
+[39371ms] GC(16) DefNew: 1167143K->373K(1287808K)
+[39371ms] GC(16) Tenured: 16444K->38405K(2861760K)
+[39371ms] GC(16) Metaspace: 44126K->44126K(135168K)
+[39371ms] GC(16) Pause Young (Allocation Failure) 1155M->37M(4052M) 19.729ms
+[39372ms] GC(16) User=0.03s Sys=0.00s Real=0.02s
+[40332ms] GC(17) Pause Young (Allocation Failure)
+[40336ms] GC(17) DefNew: 1145141K->368K(1287808K)
+[40336ms] GC(17) Tenured: 38405K->38461K(2861760K)
+[40336ms] GC(17) Metaspace: 44126K->44126K(135168K)
+[40336ms] GC(17) Pause Young (Allocation Failure) 1155M->37M(4052M) 3.608ms
+[40336ms] GC(17) User=0.01s Sys=0.00s Real=0.01s
+[41278ms] GC(18) Pause Young (Allocation Failure)
+[41281ms] GC(18) DefNew: 1145136K->294K(1287808K)
+[41281ms] GC(18) Tenured: 38461K->38483K(2861760K)
+[41281ms] GC(18) Metaspace: 44126K->44126K(135168K)
+[41281ms] GC(18) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.513ms
+[41281ms] GC(18) User=0.00s Sys=0.00s Real=0.00s
+[42228ms] GC(19) Pause Young (Allocation Failure)
+[42231ms] GC(19) DefNew: 1145062K->321K(1287808K)
+[42231ms] GC(19) Tenured: 38483K->38484K(2861760K)
+[42231ms] GC(19) Metaspace: 44126K->44126K(135168K)
+[42231ms] GC(19) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.489ms
+[42231ms] GC(19) User=0.00s Sys=0.00s Real=0.00s
+[43182ms] GC(20) Pause Young (Allocation Failure)
+[43185ms] GC(20) DefNew: 1145089K->348K(1287808K)
+[43185ms] GC(20) Tenured: 38484K->38485K(2861760K)
+[43185ms] GC(20) Metaspace: 44126K->44126K(135168K)
+[43185ms] GC(20) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.324ms
+[43185ms] GC(20) User=0.00s Sys=0.00s Real=0.01s
+[44217ms] GC(21) Pause Young (Allocation Failure)
+[44219ms] GC(21) DefNew: 1145116K->302K(1287808K)
+[44219ms] GC(21) Tenured: 38485K->38487K(2861760K)
+[44219ms] GC(21) Metaspace: 44144K->44144K(135168K)
+[44219ms] GC(21) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.267ms
+[44219ms] GC(21) User=0.00s Sys=0.00s Real=0.00s
+[50998ms] GC(22) Pause Young (Allocation Failure)
+[51001ms] GC(22) DefNew: 1145069K->350K(1287808K)
+[51001ms] GC(22) Tenured: 38487K->38487K(2861760K)
+[51001ms] GC(22) Metaspace: 44147K->44147K(135168K)
+[51001ms] GC(22) Pause Young (Allocation Failure) 1155M->37M(4052M) 3.235ms
+[51001ms] GC(22) User=0.01s Sys=0.00s Real=0.00s
+[52053ms] GC(23) Pause Young (Allocation Failure)
+[52056ms] GC(23) DefNew: 1145118K->323K(1287808K)
+[52056ms] GC(23) Tenured: 38487K->38487K(2861760K)
+[52056ms] GC(23) Metaspace: 44149K->44149K(135168K)
+[52056ms] GC(23) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.624ms
+[52056ms] GC(23) User=0.00s Sys=0.00s Real=0.01s
+[53164ms] GC(24) Pause Young (Allocation Failure)
+[53166ms] GC(24) DefNew: 1145091K->338K(1287808K)
+[53166ms] GC(24) Tenured: 38487K->38487K(2861760K)
+[53166ms] GC(24) Metaspace: 44150K->44150K(135168K)
+[53166ms] GC(24) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.627ms
+[53166ms] GC(24) User=0.00s Sys=0.00s Real=0.00s
+[54166ms] GC(25) Pause Young (Allocation Failure)
+[54168ms] GC(25) DefNew: 1145106K->331K(1287808K)
+[54168ms] GC(25) Tenured: 38487K->38488K(2861760K)
+[54168ms] GC(25) Metaspace: 44151K->44151K(135168K)
+[54168ms] GC(25) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.154ms
+[54168ms] GC(25) User=0.01s Sys=0.00s Real=0.00s
+[55129ms] GC(26) Pause Young (Allocation Failure)
+[55131ms] GC(26) DefNew: 1145099K->350K(1287808K)
+[55131ms] GC(26) Tenured: 38488K->38490K(2861760K)
+[55131ms] GC(26) Metaspace: 44151K->44151K(135168K)
+[55131ms] GC(26) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.105ms
+[55131ms] GC(26) User=0.00s Sys=0.00s Real=0.00s
+[55974ms] GC(27) Pause Young (Allocation Failure)
+[55976ms] GC(27) DefNew: 1145118K->359K(1287808K)
+[55976ms] GC(27) Tenured: 38490K->38490K(2861760K)
+[55976ms] GC(27) Metaspace: 44167K->44167K(135168K)
+[55976ms] GC(27) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.390ms
+[55976ms] GC(27) User=0.00s Sys=0.00s Real=0.00s
+[56910ms] GC(28) Pause Young (Allocation Failure)
+[56912ms] GC(28) DefNew: 1145127K->352K(1287808K)
+[56912ms] GC(28) Tenured: 38490K->38490K(2861760K)
+[56912ms] GC(28) Metaspace: 44167K->44167K(135168K)
+[56912ms] GC(28) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.379ms
+[56912ms] GC(28) User=0.00s Sys=0.00s Real=0.00s
+[57842ms] GC(29) Pause Young (Allocation Failure)
+[57844ms] GC(29) DefNew: 1145120K->345K(1287808K)
+[57844ms] GC(29) Tenured: 38490K->38490K(2861760K)
+[57844ms] GC(29) Metaspace: 44167K->44167K(135168K)
+[57844ms] GC(29) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.573ms
+[57844ms] GC(29) User=0.00s Sys=0.00s Real=0.01s
+[58728ms] GC(30) Pause Young (Allocation Failure)
+[58731ms] GC(30) DefNew: 1145113K->398K(1287808K)
+[58731ms] GC(30) Tenured: 38490K->38491K(2861760K)
+[58731ms] GC(30) Metaspace: 44167K->44167K(135168K)
+[58731ms] GC(30) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.322ms
+[58731ms] GC(30) User=0.00s Sys=0.00s Real=0.00s
+[59749ms] GC(31) Pause Young (Allocation Failure)
+[59751ms] GC(31) DefNew: 1145166K->360K(1287808K)
+[59752ms] GC(31) Tenured: 38491K->38491K(2861760K)
+[59752ms] GC(31) Metaspace: 44167K->44167K(135168K)
+[59752ms] GC(31) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.563ms
+[59752ms] GC(31) User=0.00s Sys=0.00s Real=0.00s
+[60515ms] GC(32) Pause Young (Allocation Failure)
+[60517ms] GC(32) DefNew: 1145128K->352K(1287808K)
+[60517ms] GC(32) Tenured: 38491K->38491K(2861760K)
+[60517ms] GC(32) Metaspace: 44167K->44167K(135168K)
+[60517ms] GC(32) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.271ms
+[60517ms] GC(32) User=0.00s Sys=0.00s Real=0.00s
+[61356ms] GC(33) Pause Young (Allocation Failure)
+[61358ms] GC(33) DefNew: 1145120K->337K(1287808K)
+[61358ms] GC(33) Tenured: 38491K->38491K(2861760K)
+[61358ms] GC(33) Metaspace: 44167K->44167K(135168K)
+[61358ms] GC(33) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.101ms
+[61358ms] GC(33) User=0.01s Sys=0.00s Real=0.00s
+[62285ms] GC(34) Pause Young (Allocation Failure)
+[62287ms] GC(34) DefNew: 1145105K->327K(1287808K)
+[62287ms] GC(34) Tenured: 38491K->38491K(2861760K)
+[62287ms] GC(34) Metaspace: 44167K->44167K(135168K)
+[62287ms] GC(34) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.257ms
+[62287ms] GC(34) User=0.01s Sys=0.00s Real=0.00s
+[63151ms] GC(35) Pause Young (Allocation Failure)
+[63153ms] GC(35) DefNew: 1145095K->322K(1287808K)
+[63153ms] GC(35) Tenured: 38491K->38491K(2861760K)
+[63153ms] GC(35) Metaspace: 44167K->44167K(135168K)
+[63153ms] GC(35) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.082ms
+[63153ms] GC(35) User=0.00s Sys=0.00s Real=0.00s
+[63903ms] GC(36) Pause Young (Allocation Failure)
+[63905ms] GC(36) DefNew: 1145090K->341K(1287808K)
+[63905ms] GC(36) Tenured: 38491K->38491K(2861760K)
+[63905ms] GC(36) Metaspace: 44167K->44167K(135168K)
+[63905ms] GC(36) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.063ms
+[63905ms] GC(36) User=0.00s Sys=0.00s Real=0.01s
+[64729ms] GC(37) Pause Young (Allocation Failure)
+[64731ms] GC(37) DefNew: 1145109K->329K(1287808K)
+[64731ms] GC(37) Tenured: 38491K->38522K(2861760K)
+[64731ms] GC(37) Metaspace: 44167K->44167K(135168K)
+[64731ms] GC(37) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.329ms
+[64731ms] GC(37) User=0.00s Sys=0.00s Real=0.00s
+[65601ms] GC(38) Pause Young (Allocation Failure)
+[65603ms] GC(38) DefNew: 1145097K->308K(1287808K)
+[65603ms] GC(38) Tenured: 38522K->38534K(2861760K)
+[65603ms] GC(38) Metaspace: 44167K->44167K(135168K)
+[65604ms] GC(38) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.304ms
+[65604ms] GC(38) User=0.00s Sys=0.00s Real=0.01s
+[66486ms] GC(39) Pause Young (Allocation Failure)
+[66488ms] GC(39) DefNew: 1145076K->305K(1287808K)
+[66488ms] GC(39) Tenured: 38534K->38538K(2861760K)
+[66488ms] GC(39) Metaspace: 44167K->44167K(135168K)
+[66488ms] GC(39) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.223ms
+[66488ms] GC(39) User=0.01s Sys=0.00s Real=0.00s
+[67230ms] GC(40) Pause Young (Allocation Failure)
+[67233ms] GC(40) DefNew: 1145073K->318K(1287808K)
+[67233ms] GC(40) Tenured: 38538K->38538K(2861760K)
+[67233ms] GC(40) Metaspace: 44167K->44167K(135168K)
+[67233ms] GC(40) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.151ms
+[67233ms] GC(40) User=0.00s Sys=0.00s Real=0.00s
+[68120ms] GC(41) Pause Young (Allocation Failure)
+[68122ms] GC(41) DefNew: 1145086K->326K(1287808K)
+[68122ms] GC(41) Tenured: 38538K->38538K(2861760K)
+[68122ms] GC(41) Metaspace: 44171K->44171K(135168K)
+[68122ms] GC(41) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.088ms
+[68122ms] GC(41) User=0.00s Sys=0.00s Real=0.00s
+[69035ms] GC(42) Pause Young (Allocation Failure)
+[69039ms] GC(42) DefNew: 1145094K->300K(1287808K)
+[69039ms] GC(42) Tenured: 38538K->38541K(2861760K)
+[69039ms] GC(42) Metaspace: 44171K->44171K(135168K)
+[69039ms] GC(42) Pause Young (Allocation Failure) 1155M->37M(4052M) 3.136ms
+[69039ms] GC(42) User=0.00s Sys=0.00s Real=0.00s
+[70057ms] GC(43) Pause Young (Allocation Failure)
+[70059ms] GC(43) DefNew: 1145068K->283K(1287808K)
+[70059ms] GC(43) Tenured: 38541K->38541K(2861760K)
+[70059ms] GC(43) Metaspace: 44171K->44171K(135168K)
+[70059ms] GC(43) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.990ms
+[70059ms] GC(43) User=0.00s Sys=0.00s Real=0.00s
+[70831ms] GC(44) Pause Young (Allocation Failure)
+[70833ms] GC(44) DefNew: 1145051K->326K(1287808K)
+[70833ms] GC(44) Tenured: 38541K->38543K(2861760K)
+[70833ms] GC(44) Metaspace: 44171K->44171K(135168K)
+[70833ms] GC(44) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.237ms
+[70833ms] GC(44) User=0.00s Sys=0.00s Real=0.00s
+[71807ms] GC(45) Pause Young (Allocation Failure)
+[71810ms] GC(45) DefNew: 1145094K->309K(1287808K)
+[71810ms] GC(45) Tenured: 38543K->38543K(2861760K)
+[71810ms] GC(45) Metaspace: 44171K->44171K(135168K)
+[71810ms] GC(45) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.317ms
+[71810ms] GC(45) User=0.00s Sys=0.00s Real=0.00s
+[72832ms] GC(46) Pause Young (Allocation Failure)
+[72835ms] GC(46) DefNew: 1145077K->300K(1287808K)
+[72835ms] GC(46) Tenured: 38543K->38544K(2861760K)
+[72835ms] GC(46) Metaspace: 44171K->44171K(135168K)
+[72835ms] GC(46) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.338ms
+[72835ms] GC(46) User=0.00s Sys=0.00s Real=0.01s
+[73782ms] GC(47) Pause Young (Allocation Failure)
+[73784ms] GC(47) DefNew: 1145068K->327K(1287808K)
+[73784ms] GC(47) Tenured: 38544K->38544K(2861760K)
+[73784ms] GC(47) Metaspace: 44171K->44171K(135168K)
+[73784ms] GC(47) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.061ms
+[73784ms] GC(47) User=0.00s Sys=0.00s Real=0.01s
+[74517ms] GC(48) Pause Young (Allocation Failure)
+[74519ms] GC(48) DefNew: 1145095K->311K(1287808K)
+[74519ms] GC(48) Tenured: 38544K->38544K(2861760K)
+[74519ms] GC(48) Metaspace: 44171K->44171K(135168K)
+[74519ms] GC(48) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.099ms
+[74519ms] GC(48) User=0.00s Sys=0.00s Real=0.00s
+[75422ms] GC(49) Pause Young (Allocation Failure)
+[75425ms] GC(49) DefNew: 1145079K->284K(1287808K)
+[75425ms] GC(49) Tenured: 38544K->38544K(2861760K)
+[75425ms] GC(49) Metaspace: 44172K->44172K(135168K)
+[75425ms] GC(49) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.322ms
+[75425ms] GC(49) User=0.00s Sys=0.00s Real=0.01s
+[76186ms] GC(50) Pause Young (Allocation Failure)
+[76188ms] GC(50) DefNew: 1145052K->287K(1287808K)
+[76188ms] GC(50) Tenured: 38544K->38544K(2861760K)
+[76188ms] GC(50) Metaspace: 44172K->44172K(135168K)
+[76188ms] GC(50) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.424ms
+[76188ms] GC(50) User=0.00s Sys=0.00s Real=0.00s
+[76945ms] GC(51) Pause Young (Allocation Failure)
+[76947ms] GC(51) DefNew: 1145055K->284K(1287808K)
+[76947ms] GC(51) Tenured: 38544K->38545K(2861760K)
+[76947ms] GC(51) Metaspace: 44172K->44172K(135168K)
+[76947ms] GC(51) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.155ms
+[76947ms] GC(51) User=0.00s Sys=0.00s Real=0.00s
+[77703ms] GC(52) Pause Young (Allocation Failure)
+[77705ms] GC(52) DefNew: 1145052K->283K(1287808K)
+[77705ms] GC(52) Tenured: 38545K->38545K(2861760K)
+[77705ms] GC(52) Metaspace: 44172K->44172K(135168K)
+[77705ms] GC(52) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.105ms
+[77705ms] GC(52) User=0.00s Sys=0.00s Real=0.01s
+[78434ms] GC(53) Pause Young (Allocation Failure)
+[78436ms] GC(53) DefNew: 1145051K->303K(1287808K)
+[78436ms] GC(53) Tenured: 38545K->38547K(2861760K)
+[78436ms] GC(53) Metaspace: 44172K->44172K(135168K)
+[78436ms] GC(53) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.032ms
+[78436ms] GC(53) User=0.00s Sys=0.00s Real=0.00s
+[79187ms] GC(54) Pause Young (Allocation Failure)
+[79189ms] GC(54) DefNew: 1145071K->289K(1287808K)
+[79189ms] GC(54) Tenured: 38547K->38547K(2861760K)
+[79189ms] GC(54) Metaspace: 44172K->44172K(135168K)
+[79189ms] GC(54) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.208ms
+[79189ms] GC(54) User=0.00s Sys=0.00s Real=0.00s
+[84781ms] GC(55) Pause Young (Allocation Failure)
+[84784ms] GC(55) DefNew: 1145057K->268K(1287808K)
+[84784ms] GC(55) Tenured: 38547K->38547K(2861760K)
+[84784ms] GC(55) Metaspace: 44178K->44178K(135168K)
+[84784ms] GC(55) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.869ms
+[84784ms] GC(55) User=0.00s Sys=0.00s Real=0.01s
+[85528ms] GC(56) Pause Young (Allocation Failure)
+[85530ms] GC(56) DefNew: 1145036K->316K(1287808K)
+[85530ms] GC(56) Tenured: 38547K->38547K(2861760K)
+[85530ms] GC(56) Metaspace: 44178K->44178K(135168K)
+[85530ms] GC(56) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.207ms
+[85530ms] GC(56) User=0.00s Sys=0.00s Real=0.00s
+[86551ms] GC(57) Pause Young (Allocation Failure)
+[86553ms] GC(57) DefNew: 1145084K->297K(1287808K)
+[86553ms] GC(57) Tenured: 38547K->38547K(2861760K)
+[86553ms] GC(57) Metaspace: 44178K->44178K(135168K)
+[86553ms] GC(57) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.235ms
+[86553ms] GC(57) User=0.00s Sys=0.00s Real=0.00s
+[87697ms] GC(58) Pause Young (Allocation Failure)
+[87699ms] GC(58) DefNew: 1145065K->312K(1287808K)
+[87699ms] GC(58) Tenured: 38547K->38547K(2861760K)
+[87699ms] GC(58) Metaspace: 44178K->44178K(135168K)
+[87699ms] GC(58) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.161ms
+[87699ms] GC(58) User=0.00s Sys=0.00s Real=0.00s
+[88750ms] GC(59) Pause Young (Allocation Failure)
+[88752ms] GC(59) DefNew: 1145080K->300K(1287808K)
+[88752ms] GC(59) Tenured: 38547K->38548K(2861760K)
+[88752ms] GC(59) Metaspace: 44178K->44178K(135168K)
+[88752ms] GC(59) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.748ms
+[88752ms] GC(59) User=0.00s Sys=0.00s Real=0.00s
+[89469ms] GC(60) Pause Young (Allocation Failure)
+[89471ms] GC(60) DefNew: 1145068K->289K(1287808K)
+[89471ms] GC(60) Tenured: 38548K->38548K(2861760K)
+[89471ms] GC(60) Metaspace: 44178K->44178K(135168K)
+[89472ms] GC(60) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.041ms
+[89472ms] GC(60) User=0.01s Sys=0.00s Real=0.00s
+[90473ms] GC(61) Pause Young (Allocation Failure)
+[90475ms] GC(61) DefNew: 1145057K->312K(1287808K)
+[90475ms] GC(61) Tenured: 38548K->38548K(2861760K)
+[90475ms] GC(61) Metaspace: 44178K->44178K(135168K)
+[90475ms] GC(61) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.354ms
+[90475ms] GC(61) User=0.00s Sys=0.00s Real=0.01s
+[91629ms] GC(62) Pause Young (Allocation Failure)
+[91631ms] GC(62) DefNew: 1145080K->301K(1287808K)
+[91631ms] GC(62) Tenured: 38548K->38548K(2861760K)
+[91631ms] GC(62) Metaspace: 44178K->44178K(135168K)
+[91631ms] GC(62) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.982ms
+[91631ms] GC(62) User=0.01s Sys=0.00s Real=0.00s
+[92340ms] GC(63) Pause Young (Allocation Failure)
+[92342ms] GC(63) DefNew: 1145069K->308K(1287808K)
+[92342ms] GC(63) Tenured: 38548K->38548K(2861760K)
+[92342ms] GC(63) Metaspace: 44178K->44178K(135168K)
+[92342ms] GC(63) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.021ms
+[92342ms] GC(63) User=0.00s Sys=0.00s Real=0.00s
+[93075ms] GC(64) Pause Young (Allocation Failure)
+[93077ms] GC(64) DefNew: 1145076K->287K(1287808K)
+[93077ms] GC(64) Tenured: 38548K->38548K(2861760K)
+[93077ms] GC(64) Metaspace: 44183K->44183K(135168K)
+[93077ms] GC(64) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.109ms
+[93077ms] GC(64) User=0.00s Sys=0.00s Real=0.00s
+[94491ms] GC(65) Pause Young (Allocation Failure)
+[94493ms] GC(65) DefNew: 1145055K->284K(1287808K)
+[94493ms] GC(65) Tenured: 38548K->38548K(2861760K)
+[94493ms] GC(65) Metaspace: 44183K->44183K(135168K)
+[94493ms] GC(65) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.026ms
+[94493ms] GC(65) User=0.00s Sys=0.00s Real=0.00s
+[95239ms] GC(66) Pause Young (Allocation Failure)
+[95241ms] GC(66) DefNew: 1145052K->338K(1287808K)
+[95241ms] GC(66) Tenured: 38548K->38548K(2861760K)
+[95241ms] GC(66) Metaspace: 44185K->44185K(135168K)
+[95241ms] GC(66) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.163ms
+[95241ms] GC(66) User=0.00s Sys=0.00s Real=0.00s
+[95971ms] GC(67) Pause Young (Allocation Failure)
+[95973ms] GC(67) DefNew: 1145106K->279K(1287808K)
+[95973ms] GC(67) Tenured: 38548K->38548K(2861760K)
+[95973ms] GC(67) Metaspace: 44185K->44185K(135168K)
+[95973ms] GC(67) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.078ms
+[95973ms] GC(67) User=0.00s Sys=0.00s Real=0.00s
+[96714ms] GC(68) Pause Young (Allocation Failure)
+[96716ms] GC(68) DefNew: 1145047K->310K(1287808K)
+[96716ms] GC(68) Tenured: 38548K->38548K(2861760K)
+[96716ms] GC(68) Metaspace: 44185K->44185K(135168K)
+[96716ms] GC(68) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.054ms
+[96716ms] GC(68) User=0.00s Sys=0.00s Real=0.00s
+[97493ms] GC(69) Pause Young (Allocation Failure)
+[97495ms] GC(69) DefNew: 1145078K->296K(1287808K)
+[97495ms] GC(69) Tenured: 38548K->38548K(2861760K)
+[97495ms] GC(69) Metaspace: 44185K->44185K(135168K)
+[97495ms] GC(69) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.238ms
+[97495ms] GC(69) User=0.01s Sys=0.00s Real=0.01s
+[98262ms] GC(70) Pause Young (Allocation Failure)
+[98263ms] GC(70) DefNew: 1145064K->254K(1287808K)
+[98263ms] GC(70) Tenured: 38548K->38549K(2861760K)
+[98263ms] GC(70) Metaspace: 44185K->44185K(135168K)
+[98263ms] GC(70) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.932ms
+[98264ms] GC(70) User=0.00s Sys=0.00s Real=0.01s
+[106023ms] GC(71) Pause Young (Allocation Failure)
+[106026ms] GC(71) DefNew: 1145022K->289K(1287808K)
+[106026ms] GC(71) Tenured: 38549K->38549K(2861760K)
+[106026ms] GC(71) Metaspace: 44189K->44189K(135168K)
+[106026ms] GC(71) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.288ms
+[106026ms] GC(71) User=0.00s Sys=0.00s Real=0.01s
+[107074ms] GC(72) Pause Young (Allocation Failure)
+[107076ms] GC(72) DefNew: 1145057K->340K(1287808K)
+[107076ms] GC(72) Tenured: 38549K->38549K(2861760K)
+[107076ms] GC(72) Metaspace: 44189K->44189K(135168K)
+[107076ms] GC(72) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.015ms
+[107076ms] GC(72) User=0.00s Sys=0.00s Real=0.00s
+[108098ms] GC(73) Pause Young (Allocation Failure)
+[108100ms] GC(73) DefNew: 1145108K->296K(1287808K)
+[108100ms] GC(73) Tenured: 38549K->38549K(2861760K)
+[108100ms] GC(73) Metaspace: 44189K->44189K(135168K)
+[108100ms] GC(73) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.938ms
+[108100ms] GC(73) User=0.00s Sys=0.00s Real=0.00s
+[108867ms] GC(74) Pause Young (Allocation Failure)
+[108869ms] GC(74) DefNew: 1145064K->313K(1287808K)
+[108869ms] GC(74) Tenured: 38549K->38550K(2861760K)
+[108869ms] GC(74) Metaspace: 44189K->44189K(135168K)
+[108869ms] GC(74) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.348ms
+[108869ms] GC(74) User=0.00s Sys=0.00s Real=0.00s
+[109838ms] GC(75) Pause Young (Allocation Failure)
+[109840ms] GC(75) DefNew: 1145081K->280K(1287808K)
+[109840ms] GC(75) Tenured: 38550K->38550K(2861760K)
+[109840ms] GC(75) Metaspace: 44189K->44189K(135168K)
+[109840ms] GC(75) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.831ms
+[109840ms] GC(75) User=0.00s Sys=0.00s Real=0.00s
+[110780ms] GC(76) Pause Young (Allocation Failure)
+[110781ms] GC(76) DefNew: 1145048K->269K(1287808K)
+[110781ms] GC(76) Tenured: 38550K->38550K(2861760K)
+[110781ms] GC(76) Metaspace: 44189K->44189K(135168K)
+[110781ms] GC(76) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.752ms
+[110781ms] GC(76) User=0.01s Sys=0.00s Real=0.00s
+[111483ms] GC(77) Pause Young (Allocation Failure)
+[111485ms] GC(77) DefNew: 1145037K->304K(1287808K)
+[111485ms] GC(77) Tenured: 38550K->38550K(2861760K)
+[111485ms] GC(77) Metaspace: 44189K->44189K(135168K)
+[111485ms] GC(77) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.956ms
+[111485ms] GC(77) User=0.00s Sys=0.00s Real=0.01s
+[112192ms] GC(78) Pause Young (Allocation Failure)
+[112194ms] GC(78) DefNew: 1145072K->286K(1287808K)
+[112194ms] GC(78) Tenured: 38550K->38550K(2861760K)
+[112194ms] GC(78) Metaspace: 44189K->44189K(135168K)
+[112194ms] GC(78) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.102ms
+[112194ms] GC(78) User=0.01s Sys=0.00s Real=0.01s
+[112913ms] GC(79) Pause Young (Allocation Failure)
+[112915ms] GC(79) DefNew: 1145054K->310K(1287808K)
+[112915ms] GC(79) Tenured: 38550K->38550K(2861760K)
+[112915ms] GC(79) Metaspace: 44189K->44189K(135168K)
+[112915ms] GC(79) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.062ms
+[112915ms] GC(79) User=0.00s Sys=0.00s Real=0.01s
+[113658ms] GC(80) Pause Young (Allocation Failure)
+[113660ms] GC(80) DefNew: 1145078K->314K(1287808K)
+[113660ms] GC(80) Tenured: 38550K->38550K(2861760K)
+[113660ms] GC(80) Metaspace: 44189K->44189K(135168K)
+[113660ms] GC(80) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.136ms
+[113661ms] GC(80) User=0.00s Sys=0.00s Real=0.00s
+[114449ms] GC(81) Pause Young (Allocation Failure)
+[114451ms] GC(81) DefNew: 1145082K->304K(1287808K)
+[114451ms] GC(81) Tenured: 38550K->38550K(2861760K)
+[114451ms] GC(81) Metaspace: 44189K->44189K(135168K)
+[114451ms] GC(81) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.918ms
+[114451ms] GC(81) User=0.00s Sys=0.00s Real=0.00s
+[120652ms] GC(82) Pause Young (Allocation Failure)
+[120653ms] GC(82) DefNew: 1145072K->304K(1287808K)
+[120653ms] GC(82) Tenured: 38550K->38550K(2861760K)
+[120653ms] GC(82) Metaspace: 44189K->44189K(135168K)
+[120653ms] GC(82) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.905ms
+[120653ms] GC(82) User=0.00s Sys=0.00s Real=0.00s
+[121563ms] GC(83) Pause Young (Allocation Failure)
+[121565ms] GC(83) DefNew: 1145072K->356K(1287808K)
+[121565ms] GC(83) Tenured: 38550K->38550K(2861760K)
+[121565ms] GC(83) Metaspace: 44189K->44189K(135168K)
+[121565ms] GC(83) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.011ms
+[121565ms] GC(83) User=0.00s Sys=0.00s Real=0.01s
+[122335ms] GC(84) Pause Young (Allocation Failure)
+[122337ms] GC(84) DefNew: 1145124K->290K(1287808K)
+[122337ms] GC(84) Tenured: 38550K->38550K(2861760K)
+[122337ms] GC(84) Metaspace: 44189K->44189K(135168K)
+[122337ms] GC(84) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.149ms
+[122337ms] GC(84) User=0.00s Sys=0.00s Real=0.00s
+[123087ms] GC(85) Pause Young (Allocation Failure)
+[123088ms] GC(85) DefNew: 1145058K->294K(1287808K)
+[123089ms] GC(85) Tenured: 38550K->38550K(2861760K)
+[123089ms] GC(85) Metaspace: 44189K->44189K(135168K)
+[123089ms] GC(85) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.883ms
+[123089ms] GC(85) User=0.01s Sys=0.00s Real=0.00s
+[124200ms] GC(86) Pause Young (Allocation Failure)
+[124202ms] GC(86) DefNew: 1145062K->270K(1287808K)
+[124202ms] GC(86) Tenured: 38550K->38550K(2861760K)
+[124202ms] GC(86) Metaspace: 44189K->44189K(135168K)
+[124202ms] GC(86) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.191ms
+[124202ms] GC(86) User=0.01s Sys=0.00s Real=0.00s
+[124902ms] GC(87) Pause Young (Allocation Failure)
+[124904ms] GC(87) DefNew: 1145038K->294K(1287808K)
+[124904ms] GC(87) Tenured: 38550K->38550K(2861760K)
+[124904ms] GC(87) Metaspace: 44189K->44189K(135168K)
+[124904ms] GC(87) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.876ms
+[124904ms] GC(87) User=0.00s Sys=0.00s Real=0.01s
+[125596ms] GC(88) Pause Young (Allocation Failure)
+[125598ms] GC(88) DefNew: 1145062K->304K(1287808K)
+[125598ms] GC(88) Tenured: 38550K->38550K(2861760K)
+[125598ms] GC(88) Metaspace: 44189K->44189K(135168K)
+[125598ms] GC(88) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.064ms
+[125598ms] GC(88) User=0.00s Sys=0.00s Real=0.00s
+[126305ms] GC(89) Pause Young (Allocation Failure)
+[126307ms] GC(89) DefNew: 1145072K->295K(1287808K)
+[126307ms] GC(89) Tenured: 38550K->38550K(2861760K)
+[126307ms] GC(89) Metaspace: 44189K->44189K(135168K)
+[126307ms] GC(89) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.095ms
+[126307ms] GC(89) User=0.00s Sys=0.00s Real=0.00s
+[127675ms] GC(90) Pause Young (Allocation Failure)
+[127677ms] GC(90) DefNew: 1145063K->310K(1287808K)
+[127677ms] GC(90) Tenured: 38550K->38550K(2861760K)
+[127677ms] GC(90) Metaspace: 44189K->44189K(135168K)
+[127677ms] GC(90) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.065ms
+[127677ms] GC(90) User=0.00s Sys=0.00s Real=0.00s
+[128361ms] GC(91) Pause Young (Allocation Failure)
+[128363ms] GC(91) DefNew: 1145078K->277K(1287808K)
+[128363ms] GC(91) Tenured: 38550K->38550K(2861760K)
+[128363ms] GC(91) Metaspace: 44189K->44189K(135168K)
+[128363ms] GC(91) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.964ms
+[128363ms] GC(91) User=0.00s Sys=0.00s Real=0.00s
+[129373ms] GC(92) Pause Young (Allocation Failure)
+[129375ms] GC(92) DefNew: 1145045K->272K(1287808K)
+[129375ms] GC(92) Tenured: 38550K->38551K(2861760K)
+[129375ms] GC(92) Metaspace: 44189K->44189K(135168K)
+[129375ms] GC(92) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.117ms
+[129375ms] GC(92) User=0.00s Sys=0.00s Real=0.01s
+[130266ms] GC(93) Pause Young (Allocation Failure)
+[130268ms] GC(93) DefNew: 1145040K->301K(1287808K)
+[130268ms] GC(93) Tenured: 38551K->38551K(2861760K)
+[130268ms] GC(93) Metaspace: 44189K->44189K(135168K)
+[130268ms] GC(93) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.981ms
+[130268ms] GC(93) User=0.01s Sys=0.00s Real=0.00s
+[130989ms] GC(94) Pause Young (Allocation Failure)
+[130991ms] GC(94) DefNew: 1145069K->293K(1287808K)
+[130991ms] GC(94) Tenured: 38551K->38551K(2861760K)
+[130991ms] GC(94) Metaspace: 44190K->44190K(135168K)
+[130991ms] GC(94) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.886ms
+[130991ms] GC(94) User=0.00s Sys=0.00s Real=0.00s
+[131704ms] GC(95) Pause Young (Allocation Failure)
+[131706ms] GC(95) DefNew: 1145061K->300K(1287808K)
+[131706ms] GC(95) Tenured: 38551K->38551K(2861760K)
+[131706ms] GC(95) Metaspace: 44190K->44190K(135168K)
+[131706ms] GC(95) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.134ms
+[131706ms] GC(95) User=0.00s Sys=0.00s Real=0.00s
+[132419ms] GC(96) Pause Young (Allocation Failure)
+[132421ms] GC(96) DefNew: 1145068K->267K(1287808K)
+[132421ms] GC(96) Tenured: 38551K->38551K(2861760K)
+[132421ms] GC(96) Metaspace: 44190K->44190K(135168K)
+[132421ms] GC(96) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.896ms
+[132421ms] GC(96) User=0.00s Sys=0.00s Real=0.00s
+[133219ms] GC(97) Pause Young (Allocation Failure)
+[133221ms] GC(97) DefNew: 1145035K->313K(1287808K)
+[133221ms] GC(97) Tenured: 38551K->38552K(2861760K)
+[133221ms] GC(97) Metaspace: 44190K->44190K(135168K)
+[133221ms] GC(97) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.455ms
+[133221ms] GC(97) User=0.01s Sys=0.00s Real=0.00s
+[134009ms] GC(98) Pause Young (Allocation Failure)
+[134011ms] GC(98) DefNew: 1145081K->260K(1287808K)
+[134011ms] GC(98) Tenured: 38552K->38552K(2861760K)
+[134011ms] GC(98) Metaspace: 44190K->44190K(135168K)
+[134011ms] GC(98) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.751ms
+[134011ms] GC(98) User=0.00s Sys=0.00s Real=0.00s
+[134741ms] GC(99) Pause Young (Allocation Failure)
+[134743ms] GC(99) DefNew: 1145028K->288K(1287808K)
+[134743ms] GC(99) Tenured: 38552K->38552K(2861760K)
+[134743ms] GC(99) Metaspace: 44190K->44190K(135168K)
+[134743ms] GC(99) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.306ms
+[134743ms] GC(99) User=0.00s Sys=0.00s Real=0.00s
+[135495ms] GC(100) Pause Young (Allocation Failure)
+[135496ms] GC(100) DefNew: 1145056K->290K(1287808K)
+[135496ms] GC(100) Tenured: 38552K->38552K(2861760K)
+[135496ms] GC(100) Metaspace: 44190K->44190K(135168K)
+[135496ms] GC(100) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.809ms
+[135497ms] GC(100) User=0.00s Sys=0.00s Real=0.00s
+[136223ms] GC(101) Pause Young (Allocation Failure)
+[136224ms] GC(101) DefNew: 1145058K->267K(1287808K)
+[136224ms] GC(101) Tenured: 38552K->38552K(2861760K)
+[136224ms] GC(101) Metaspace: 44190K->44190K(135168K)
+[136224ms] GC(101) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.924ms
+[136225ms] GC(101) User=0.00s Sys=0.00s Real=0.01s
+[136943ms] GC(102) Pause Young (Allocation Failure)
+[136945ms] GC(102) DefNew: 1145035K->310K(1287808K)
+[136945ms] GC(102) Tenured: 38552K->38552K(2861760K)
+[136945ms] GC(102) Metaspace: 44190K->44190K(135168K)
+[136945ms] GC(102) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.927ms
+[136945ms] GC(102) User=0.01s Sys=0.00s Real=0.01s
+[137657ms] GC(103) Pause Young (Allocation Failure)
+[137659ms] GC(103) DefNew: 1145078K->317K(1287808K)
+[137659ms] GC(103) Tenured: 38552K->38552K(2861760K)
+[137659ms] GC(103) Metaspace: 44190K->44190K(135168K)
+[137659ms] GC(103) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.978ms
+[137659ms] GC(103) User=0.01s Sys=0.00s Real=0.00s
+[138375ms] GC(104) Pause Young (Allocation Failure)
+[138377ms] GC(104) DefNew: 1145085K->321K(1287808K)
+[138377ms] GC(104) Tenured: 38552K->38552K(2861760K)
+[138377ms] GC(104) Metaspace: 44190K->44190K(135168K)
+[138377ms] GC(104) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.273ms
+[138377ms] GC(104) User=0.01s Sys=0.00s Real=0.00s
+[141762ms] GC(105) Pause Young (Allocation Failure)
+[141764ms] GC(105) DefNew: 1145089K->285K(1287808K)
+[141764ms] GC(105) Tenured: 38552K->38552K(2861760K)
+[141764ms] GC(105) Metaspace: 44190K->44190K(135168K)
+[141764ms] GC(105) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.814ms
+[141764ms] GC(105) User=0.00s Sys=0.00s Real=0.01s
+[142489ms] GC(106) Pause Young (Allocation Failure)
+[142490ms] GC(106) DefNew: 1145053K->275K(1287808K)
+[142490ms] GC(106) Tenured: 38552K->38552K(2861760K)
+[142490ms] GC(106) Metaspace: 44190K->44190K(135168K)
+[142491ms] GC(106) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.779ms
+[142491ms] GC(106) User=0.00s Sys=0.00s Real=0.00s
+[143678ms] GC(107) Pause Young (Allocation Failure)
+[143680ms] GC(107) DefNew: 1145043K->283K(1287808K)
+[143680ms] GC(107) Tenured: 38552K->38552K(2861760K)
+[143680ms] GC(107) Metaspace: 44190K->44190K(135168K)
+[143680ms] GC(107) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.406ms
+[143680ms] GC(107) User=0.00s Sys=0.00s Real=0.00s
+[144680ms] GC(108) Pause Young (Allocation Failure)
+[144682ms] GC(108) DefNew: 1145051K->281K(1287808K)
+[144682ms] GC(108) Tenured: 38552K->38552K(2861760K)
+[144682ms] GC(108) Metaspace: 44190K->44190K(135168K)
+[144682ms] GC(108) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.870ms
+[144682ms] GC(108) User=0.00s Sys=0.00s Real=0.00s
+[145648ms] GC(109) Pause Young (Allocation Failure)
+[145650ms] GC(109) DefNew: 1145049K->308K(1287808K)
+[145650ms] GC(109) Tenured: 38552K->38552K(2861760K)
+[145650ms] GC(109) Metaspace: 44190K->44190K(135168K)
+[145650ms] GC(109) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.799ms
+[145650ms] GC(109) User=0.00s Sys=0.00s Real=0.00s
+[146358ms] GC(110) Pause Young (Allocation Failure)
+[146360ms] GC(110) DefNew: 1145076K->288K(1287808K)
+[146360ms] GC(110) Tenured: 38552K->38552K(2861760K)
+[146360ms] GC(110) Metaspace: 44192K->44192K(135168K)
+[146360ms] GC(110) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.011ms
+[146360ms] GC(110) User=0.00s Sys=0.00s Real=0.00s
+[147082ms] GC(111) Pause Young (Allocation Failure)
+[147084ms] GC(111) DefNew: 1145056K->274K(1287808K)
+[147084ms] GC(111) Tenured: 38552K->38552K(2861760K)
+[147084ms] GC(111) Metaspace: 44192K->44192K(135168K)
+[147084ms] GC(111) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.957ms
+[147084ms] GC(111) User=0.00s Sys=0.00s Real=0.01s
+[147807ms] GC(112) Pause Young (Allocation Failure)
+[147809ms] GC(112) DefNew: 1145042K->292K(1287808K)
+[147809ms] GC(112) Tenured: 38552K->38552K(2861760K)
+[147809ms] GC(112) Metaspace: 44192K->44192K(135168K)
+[147809ms] GC(112) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.039ms
+[147809ms] GC(112) User=0.01s Sys=0.00s Real=0.00s
+[148528ms] GC(113) Pause Young (Allocation Failure)
+[148530ms] GC(113) DefNew: 1145060K->304K(1287808K)
+[148530ms] GC(113) Tenured: 38552K->38552K(2861760K)
+[148530ms] GC(113) Metaspace: 44192K->44192K(135168K)
+[148530ms] GC(113) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.068ms
+[148530ms] GC(113) User=0.00s Sys=0.00s Real=0.00s
+[149330ms] GC(114) Pause Young (Allocation Failure)
+[149332ms] GC(114) DefNew: 1145072K->278K(1287808K)
+[149332ms] GC(114) Tenured: 38552K->38552K(2861760K)
+[149332ms] GC(114) Metaspace: 44192K->44192K(135168K)
+[149332ms] GC(114) Pause Young (Allocation Failure) 1155M->37M(4052M) 1.999ms
+[149332ms] GC(114) User=0.01s Sys=0.00s Real=0.00s
+[150079ms] GC(115) Pause Young (Allocation Failure)
+[150081ms] GC(115) DefNew: 1145046K->310K(1287808K)
+[150081ms] GC(115) Tenured: 38552K->38552K(2861760K)
+[150081ms] GC(115) Metaspace: 44192K->44192K(135168K)
+[150081ms] GC(115) Pause Young (Allocation Failure) 1155M->37M(4052M) 2.022ms
+[150081ms] GC(115) User=0.00s Sys=0.00s Real=0.00s
+[157319ms] Heap
+[157319ms]  def new generation   total 1287808K, used 341544K [0x00000006fa000000, 0x0000000751550000, 0x0000000751550000)
+[157319ms]   eden space 1144768K,  29% used [0x00000006fa000000, 0x000000070ed3c4f8, 0x000000073fdf0000)
+[157319ms]   from space 143040K,   0% used [0x000000073fdf0000, 0x000000073fe3db88, 0x00000007489a0000)
+[157319ms]   to   space 143040K,   0% used [0x00000007489a0000, 0x00000007489a0000, 0x0000000751550000)
+[157319ms]  tenured generation   total 2861760K, used 38552K [0x0000000751550000, 0x0000000800000000, 0x0000000800000000)
+[157319ms]    the space 2861760K,   1% used [0x0000000751550000, 0x0000000753af6050, 0x0000000753af6200, 0x0000000800000000)
+[157319ms]  Metaspace       used 44431K, capacity 45635K, committed 45824K, reserved 135168K
+[157319ms]   class space    used 5076K, capacity 5526K, committed 5632K, reserved 94208K

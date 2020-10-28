@@ -1,0 +1,463 @@
+[10ms] Heap region size: 2M
+[26ms] Using G1
+[26ms] Heap address: 0x00000006fa000000, size: 4192 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+[949ms] GC(0) Pause Young (Normal) (G1 Evacuation Pause)
+[949ms] GC(0) Using 10 workers of 10 for evacuation
+[956ms] GC(0)   Pre Evacuate Collection Set: 0.0ms
+[956ms] GC(0)   Evacuate Collection Set: 5.6ms
+[956ms] GC(0)   Post Evacuate Collection Set: 0.8ms
+[956ms] GC(0)   Other: 0.7ms
+[956ms] GC(0) Eden regions: 104->0(148)
+[956ms] GC(0) Survivor regions: 0->3(13)
+[956ms] GC(0) Old regions: 0->0
+[956ms] GC(0) Humongous regions: 0->0
+[956ms] GC(0) Metaspace: 20773K->20773K(114688K)
+[956ms] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 208M->4M(4192M) 7.364ms
+[956ms] GC(0) User=0.05s Sys=0.01s Real=0.01s
+[2113ms] GC(1) Pause Young (Normal) (G1 Evacuation Pause)
+[2113ms] GC(1) Using 10 workers of 10 for evacuation
+[2123ms] GC(1)   Pre Evacuate Collection Set: 0.0ms
+[2123ms] GC(1)   Evacuate Collection Set: 8.7ms
+[2123ms] GC(1)   Post Evacuate Collection Set: 0.9ms
+[2123ms] GC(1)   Other: 0.2ms
+[2123ms] GC(1) Eden regions: 148->0(152)
+[2123ms] GC(1) Survivor regions: 3->8(19)
+[2123ms] GC(1) Old regions: 0->0
+[2123ms] GC(1) Humongous regions: 0->0
+[2123ms] GC(1) Metaspace: 35703K->35703K(126976K)
+[2123ms] GC(1) Pause Young (Normal) (G1 Evacuation Pause) 300M->14M(4192M) 10.031ms
+[2123ms] GC(1) User=0.07s Sys=0.02s Real=0.01s
+[7758ms] GC(2) Pause Young (Normal) (G1 Evacuation Pause)
+[7758ms] GC(2) Using 10 workers of 10 for evacuation
+[7772ms] GC(2)   Pre Evacuate Collection Set: 0.0ms
+[7772ms] GC(2)   Evacuate Collection Set: 12.6ms
+[7772ms] GC(2)   Post Evacuate Collection Set: 1.0ms
+[7772ms] GC(2)   Other: 0.2ms
+[7772ms] GC(2) Eden regions: 152->0(165)
+[7772ms] GC(2) Survivor regions: 8->10(20)
+[7772ms] GC(2) Old regions: 0->0
+[7772ms] GC(2) Humongous regions: 0->0
+[7772ms] GC(2) Metaspace: 41158K->41158K(133120K)
+[7772ms] GC(2) Pause Young (Normal) (G1 Evacuation Pause) 318M->20M(4192M) 13.969ms
+[7772ms] GC(2) User=0.09s Sys=0.02s Real=0.01s
+[8968ms] GC(3) Pause Young (Normal) (G1 Evacuation Pause)
+[8968ms] GC(3) Using 10 workers of 10 for evacuation
+[8986ms] GC(3)   Pre Evacuate Collection Set: 0.0ms
+[8986ms] GC(3)   Evacuate Collection Set: 16.5ms
+[8986ms] GC(3)   Post Evacuate Collection Set: 1.2ms
+[8986ms] GC(3)   Other: 0.3ms
+[8986ms] GC(3) Eden regions: 165->0(410)
+[8986ms] GC(3) Survivor regions: 10->20(22)
+[8986ms] GC(3) Old regions: 0->0
+[8986ms] GC(3) Humongous regions: 0->0
+[8986ms] GC(3) Metaspace: 43079K->43079K(133120K)
+[8986ms] GC(3) Pause Young (Normal) (G1 Evacuation Pause) 350M->39M(4192M) 18.074ms
+[8986ms] GC(3) User=0.13s Sys=0.06s Real=0.02s
+[11336ms] GC(4) Pause Young (Normal) (G1 Evacuation Pause)
+[11336ms] GC(4) Using 10 workers of 10 for evacuation
+[11356ms] GC(4)   Pre Evacuate Collection Set: 0.1ms
+[11356ms] GC(4)   Evacuate Collection Set: 18.4ms
+[11356ms] GC(4)   Post Evacuate Collection Set: 1.3ms
+[11356ms] GC(4)   Other: 0.6ms
+[11356ms] GC(4) Eden regions: 410->0(399)
+[11356ms] GC(4) Survivor regions: 20->21(54)
+[11356ms] GC(4) Old regions: 0->0
+[11356ms] GC(4) Humongous regions: 0->0
+[11356ms] GC(4) Metaspace: 43385K->43385K(135168K)
+[11356ms] GC(4) Pause Young (Normal) (G1 Evacuation Pause) 859M->41M(4192M) 20.457ms
+[11356ms] GC(4) User=0.11s Sys=0.06s Real=0.02s
+[13176ms] GC(5) Pause Young (Normal) (G1 Evacuation Pause)
+[13176ms] GC(5) Using 10 workers of 10 for evacuation
+[13191ms] GC(5)   Pre Evacuate Collection Set: 0.0ms
+[13191ms] GC(5)   Evacuate Collection Set: 12.4ms
+[13191ms] GC(5)   Post Evacuate Collection Set: 1.9ms
+[13191ms] GC(5)   Other: 0.3ms
+[13191ms] GC(5) Eden regions: 399->0(427)
+[13191ms] GC(5) Survivor regions: 21->21(53)
+[13191ms] GC(5) Old regions: 0->0
+[13191ms] GC(5) Humongous regions: 0->0
+[13191ms] GC(5) Metaspace: 43800K->43800K(135168K)
+[13191ms] GC(5) Pause Young (Normal) (G1 Evacuation Pause) 839M->42M(4192M) 14.816ms
+[13191ms] GC(5) User=0.12s Sys=0.02s Real=0.01s
+[14367ms] GC(6) Pause Young (Normal) (G1 Evacuation Pause)
+[14368ms] GC(6) Using 10 workers of 10 for evacuation
+[14389ms] GC(6)   Pre Evacuate Collection Set: 0.0ms
+[14389ms] GC(6)   Evacuate Collection Set: 19.6ms
+[14389ms] GC(6)   Post Evacuate Collection Set: 1.5ms
+[14389ms] GC(6)   Other: 0.3ms
+[14389ms] GC(6) Eden regions: 427->0(473)
+[14389ms] GC(6) Survivor regions: 21->21(56)
+[14389ms] GC(6) Old regions: 0->0
+[14389ms] GC(6) Humongous regions: 0->0
+[14389ms] GC(6) Metaspace: 44104K->44104K(135168K)
+[14389ms] GC(6) Pause Young (Normal) (G1 Evacuation Pause) 896M->42M(4192M) 21.561ms
+[14389ms] GC(6) User=0.13s Sys=0.06s Real=0.02s
+[15481ms] GC(7) Pause Young (Normal) (G1 Evacuation Pause)
+[15481ms] GC(7) Using 10 workers of 10 for evacuation
+[15500ms] GC(7)   Pre Evacuate Collection Set: 0.1ms
+[15500ms] GC(7)   Evacuate Collection Set: 17.2ms
+[15500ms] GC(7)   Post Evacuate Collection Set: 1.7ms
+[15500ms] GC(7)   Other: 0.4ms
+[15500ms] GC(7) Eden regions: 473->0(643)
+[15500ms] GC(7) Survivor regions: 21->21(62)
+[15500ms] GC(7) Old regions: 0->0
+[15500ms] GC(7) Humongous regions: 0->0
+[15500ms] GC(7) Metaspace: 44114K->44114K(135168K)
+[15500ms] GC(7) Pause Young (Normal) (G1 Evacuation Pause) 988M->41M(4192M) 19.437ms
+[15500ms] GC(7) User=0.12s Sys=0.06s Real=0.02s
+[16854ms] GC(8) Pause Young (Normal) (G1 Evacuation Pause)
+[16854ms] GC(8) Using 10 workers of 10 for evacuation
+[16875ms] GC(8)   Pre Evacuate Collection Set: 0.0ms
+[16875ms] GC(8)   Evacuate Collection Set: 18.5ms
+[16875ms] GC(8)   Post Evacuate Collection Set: 1.7ms
+[16875ms] GC(8)   Other: 0.4ms
+[16875ms] GC(8) Eden regions: 643->0(818)
+[16875ms] GC(8) Survivor regions: 21->21(83)
+[16875ms] GC(8) Old regions: 0->0
+[16875ms] GC(8) Humongous regions: 0->0
+[16875ms] GC(8) Metaspace: 44114K->44114K(135168K)
+[16875ms] GC(8) Pause Young (Normal) (G1 Evacuation Pause) 1327M->41M(4192M) 20.720ms
+[16875ms] GC(8) User=0.11s Sys=0.06s Real=0.02s
+[18541ms] GC(9) Pause Young (Normal) (G1 Evacuation Pause)
+[18541ms] GC(9) Using 10 workers of 10 for evacuation
+[18563ms] GC(9)   Pre Evacuate Collection Set: 0.0ms
+[18563ms] GC(9)   Evacuate Collection Set: 19.4ms
+[18563ms] GC(9)   Post Evacuate Collection Set: 1.9ms
+[18563ms] GC(9)   Other: 0.9ms
+[18563ms] GC(9) Eden regions: 818->0(1041)
+[18563ms] GC(9) Survivor regions: 21->21(105)
+[18563ms] GC(9) Old regions: 0->0
+[18563ms] GC(9) Humongous regions: 0->0
+[18563ms] GC(9) Metaspace: 44114K->44114K(135168K)
+[18563ms] GC(9) Pause Young (Normal) (G1 Evacuation Pause) 1677M->41M(4192M) 22.305ms
+[18563ms] GC(9) User=0.14s Sys=0.06s Real=0.02s
+[20499ms] GC(10) Pause Young (Normal) (G1 Evacuation Pause)
+[20499ms] GC(10) Using 10 workers of 10 for evacuation
+[20521ms] GC(10)   Pre Evacuate Collection Set: 0.0ms
+[20521ms] GC(10)   Evacuate Collection Set: 19.5ms
+[20521ms] GC(10)   Post Evacuate Collection Set: 1.9ms
+[20521ms] GC(10)   Other: 0.5ms
+[20521ms] GC(10) Eden regions: 1041->0(1236)
+[20521ms] GC(10) Survivor regions: 21->21(133)
+[20521ms] GC(10) Old regions: 0->0
+[20521ms] GC(10) Humongous regions: 0->0
+[20521ms] GC(10) Metaspace: 44114K->44114K(135168K)
+[20521ms] GC(10) Pause Young (Normal) (G1 Evacuation Pause) 2123M->42M(4192M) 21.956ms
+[20521ms] GC(10) User=0.12s Sys=0.05s Real=0.02s
+[22897ms] GC(11) Pause Young (Normal) (G1 Evacuation Pause)
+[22897ms] GC(11) Using 10 workers of 10 for evacuation
+[22919ms] GC(11)   Pre Evacuate Collection Set: 0.1ms
+[22919ms] GC(11)   Evacuate Collection Set: 19.0ms
+[22919ms] GC(11)   Post Evacuate Collection Set: 2.4ms
+[22919ms] GC(11)   Other: 0.7ms
+[22919ms] GC(11) Eden regions: 1236->0(1236)
+[22919ms] GC(11) Survivor regions: 21->21(158)
+[22919ms] GC(11) Old regions: 0->0
+[22919ms] GC(11) Humongous regions: 0->0
+[22919ms] GC(11) Metaspace: 44122K->44122K(135168K)
+[22919ms] GC(11) Pause Young (Normal) (G1 Evacuation Pause) 2514M->41M(4192M) 22.227ms
+[22919ms] GC(11) User=0.11s Sys=0.05s Real=0.02s
+[25066ms] GC(12) Pause Young (Normal) (G1 Evacuation Pause)
+[25066ms] GC(12) Using 10 workers of 10 for evacuation
+[25080ms] GC(12)   Pre Evacuate Collection Set: 0.0ms
+[25081ms] GC(12)   Evacuate Collection Set: 12.6ms
+[25081ms] GC(12)   Post Evacuate Collection Set: 1.9ms
+[25081ms] GC(12)   Other: 0.4ms
+[25081ms] GC(12) Eden regions: 1236->0(1235)
+[25081ms] GC(12) Survivor regions: 21->22(158)
+[25081ms] GC(12) Old regions: 0->0
+[25081ms] GC(12) Humongous regions: 0->0
+[25081ms] GC(12) Metaspace: 44123K->44123K(135168K)
+[25081ms] GC(12) Pause Young (Normal) (G1 Evacuation Pause) 2513M->42M(4192M) 15.093ms
+[25081ms] GC(12) User=0.14s Sys=0.01s Real=0.01s
+[26991ms] GC(13) Pause Young (Normal) (G1 Evacuation Pause)
+[26992ms] GC(13) Using 10 workers of 10 for evacuation
+[27004ms] GC(13)   Pre Evacuate Collection Set: 0.0ms
+[27004ms] GC(13)   Evacuate Collection Set: 9.8ms
+[27004ms] GC(13)   Post Evacuate Collection Set: 1.8ms
+[27004ms] GC(13)   Other: 1.1ms
+[27004ms] GC(13) Eden regions: 1235->0(1236)
+[27004ms] GC(13) Survivor regions: 22->21(158)
+[27004ms] GC(13) Old regions: 0->0
+[27004ms] GC(13) Humongous regions: 0->0
+[27004ms] GC(13) Metaspace: 44141K->44141K(135168K)
+[27004ms] GC(13) Pause Young (Normal) (G1 Evacuation Pause) 2512M->41M(4192M) 12.852ms
+[27004ms] GC(13) User=0.12s Sys=0.00s Real=0.01s
+[28962ms] GC(14) Pause Young (Normal) (G1 Evacuation Pause)
+[28962ms] GC(14) Using 10 workers of 10 for evacuation
+[28973ms] GC(14)   Pre Evacuate Collection Set: 0.0ms
+[28973ms] GC(14)   Evacuate Collection Set: 9.1ms
+[28973ms] GC(14)   Post Evacuate Collection Set: 1.7ms
+[28973ms] GC(14)   Other: 0.4ms
+[28973ms] GC(14) Eden regions: 1236->0(1236)
+[28973ms] GC(14) Survivor regions: 21->21(158)
+[28973ms] GC(14) Old regions: 0->0
+[28973ms] GC(14) Humongous regions: 0->0
+[28973ms] GC(14) Metaspace: 44145K->44145K(135168K)
+[28973ms] GC(14) Pause Young (Normal) (G1 Evacuation Pause) 2513M->41M(4192M) 11.378ms
+[28973ms] GC(14) User=0.09s Sys=0.00s Real=0.01s
+[30869ms] GC(15) Pause Young (Normal) (G1 Evacuation Pause)
+[30869ms] GC(15) Using 10 workers of 10 for evacuation
+[30882ms] GC(15)   Pre Evacuate Collection Set: 0.1ms
+[30882ms] GC(15)   Evacuate Collection Set: 10.6ms
+[30882ms] GC(15)   Post Evacuate Collection Set: 1.8ms
+[30882ms] GC(15)   Other: 0.5ms
+[30882ms] GC(15) Eden regions: 1236->0(1238)
+[30882ms] GC(15) Survivor regions: 21->19(158)
+[30882ms] GC(15) Old regions: 0->3
+[30882ms] GC(15) Humongous regions: 0->0
+[30882ms] GC(15) Metaspace: 44145K->44145K(135168K)
+[30882ms] GC(15) Pause Young (Normal) (G1 Evacuation Pause) 2513M->41M(4192M) 13.047ms
+[30882ms] GC(15) User=0.10s Sys=0.00s Real=0.01s
+[32781ms] GC(16) Pause Young (Normal) (G1 Evacuation Pause)
+[32781ms] GC(16) Using 10 workers of 10 for evacuation
+[32790ms] GC(16)   Pre Evacuate Collection Set: 0.0ms
+[32790ms] GC(16)   Evacuate Collection Set: 7.5ms
+[32790ms] GC(16)   Post Evacuate Collection Set: 0.9ms
+[32790ms] GC(16)   Other: 0.4ms
+[32790ms] GC(16) Eden regions: 1238->0(1242)
+[32790ms] GC(16) Survivor regions: 19->15(158)
+[32790ms] GC(16) Old regions: 3->7
+[32790ms] GC(16) Humongous regions: 0->0
+[32790ms] GC(16) Metaspace: 44150K->44150K(135168K)
+[32790ms] GC(16) Pause Young (Normal) (G1 Evacuation Pause) 2517M->42M(4192M) 8.975ms
+[32790ms] GC(16) User=0.07s Sys=0.01s Real=0.01s
+[34596ms] GC(17) Pause Young (Normal) (G1 Evacuation Pause)
+[34596ms] GC(17) Using 10 workers of 10 for evacuation
+[34602ms] GC(17)   Pre Evacuate Collection Set: 0.0ms
+[34602ms] GC(17)   Evacuate Collection Set: 5.2ms
+[34602ms] GC(17)   Post Evacuate Collection Set: 0.8ms
+[34602ms] GC(17)   Other: 0.4ms
+[34602ms] GC(17) Eden regions: 1242->0(1246)
+[34602ms] GC(17) Survivor regions: 15->11(158)
+[34602ms] GC(17) Old regions: 7->10
+[34602ms] GC(17) Humongous regions: 0->0
+[34602ms] GC(17) Metaspace: 44150K->44150K(135168K)
+[34602ms] GC(17) Pause Young (Normal) (G1 Evacuation Pause) 2526M->41M(4192M) 6.500ms
+[34602ms] GC(17) User=0.04s Sys=0.00s Real=0.00s
+[36437ms] GC(18) Pause Young (Normal) (G1 Evacuation Pause)
+[36437ms] GC(18) Using 10 workers of 10 for evacuation
+[36448ms] GC(18)   Pre Evacuate Collection Set: 0.0ms
+[36448ms] GC(18)   Evacuate Collection Set: 9.8ms
+[36448ms] GC(18)   Post Evacuate Collection Set: 0.8ms
+[36448ms] GC(18)   Other: 0.6ms
+[36448ms] GC(18) Eden regions: 1246->0(1255)
+[36448ms] GC(18) Survivor regions: 11->2(158)
+[36448ms] GC(18) Old regions: 10->20
+[36448ms] GC(18) Humongous regions: 0->0
+[36448ms] GC(18) Metaspace: 44150K->44150K(135168K)
+[36448ms] GC(18) Pause Young (Normal) (G1 Evacuation Pause) 2533M->43M(4192M) 11.312ms
+[36448ms] GC(18) User=0.04s Sys=0.04s Real=0.01s
+[95512ms] GC(19) Pause Young (Normal) (G1 Evacuation Pause)
+[95512ms] GC(19) Using 10 workers of 10 for evacuation
+[95515ms] GC(19)   Pre Evacuate Collection Set: 0.0ms
+[95515ms] GC(19)   Evacuate Collection Set: 1.1ms
+[95515ms] GC(19)   Post Evacuate Collection Set: 0.6ms
+[95515ms] GC(19)   Other: 0.3ms
+[95515ms] GC(19) Eden regions: 1255->0(1256)
+[95515ms] GC(19) Survivor regions: 2->1(158)
+[95515ms] GC(19) Old regions: 20->21
+[95515ms] GC(19) Humongous regions: 0->0
+[95515ms] GC(19) Metaspace: 44169K->44169K(135168K)
+[95515ms] GC(19) Pause Young (Normal) (G1 Evacuation Pause) 2553M->43M(4192M) 2.238ms
+[95515ms] GC(19) User=0.01s Sys=0.00s Real=0.00s
+[97377ms] GC(20) Pause Young (Normal) (G1 Evacuation Pause)
+[97377ms] GC(20) Using 10 workers of 10 for evacuation
+[97380ms] GC(20)   Pre Evacuate Collection Set: 0.1ms
+[97380ms] GC(20)   Evacuate Collection Set: 1.5ms
+[97380ms] GC(20)   Post Evacuate Collection Set: 1.0ms
+[97380ms] GC(20)   Other: 0.5ms
+[97380ms] GC(20) Eden regions: 1256->0(1256)
+[97380ms] GC(20) Survivor regions: 1->1(158)
+[97380ms] GC(20) Old regions: 21->22
+[97380ms] GC(20) Humongous regions: 0->0
+[97380ms] GC(20) Metaspace: 44169K->44169K(135168K)
+[97380ms] GC(20) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 3.264ms
+[97380ms] GC(20) User=0.02s Sys=0.00s Real=0.00s
+[99314ms] GC(21) Pause Young (Normal) (G1 Evacuation Pause)
+[99314ms] GC(21) Using 10 workers of 10 for evacuation
+[99316ms] GC(21)   Pre Evacuate Collection Set: 0.0ms
+[99316ms] GC(21)   Evacuate Collection Set: 1.0ms
+[99316ms] GC(21)   Post Evacuate Collection Set: 0.7ms
+[99316ms] GC(21)   Other: 0.4ms
+[99316ms] GC(21) Eden regions: 1256->0(1256)
+[99316ms] GC(21) Survivor regions: 1->1(158)
+[99316ms] GC(21) Old regions: 22->22
+[99316ms] GC(21) Humongous regions: 0->0
+[99316ms] GC(21) Metaspace: 44170K->44170K(135168K)
+[99316ms] GC(21) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.235ms
+[99316ms] GC(21) User=0.01s Sys=0.00s Real=0.01s
+[101114ms] GC(22) Pause Young (Normal) (G1 Evacuation Pause)
+[101114ms] GC(22) Using 10 workers of 10 for evacuation
+[101116ms] GC(22)   Pre Evacuate Collection Set: 0.0ms
+[101116ms] GC(22)   Evacuate Collection Set: 1.0ms
+[101116ms] GC(22)   Post Evacuate Collection Set: 0.7ms
+[101116ms] GC(22)   Other: 0.4ms
+[101116ms] GC(22) Eden regions: 1256->0(1256)
+[101116ms] GC(22) Survivor regions: 1->1(158)
+[101116ms] GC(22) Old regions: 22->22
+[101116ms] GC(22) Humongous regions: 0->0
+[101116ms] GC(22) Metaspace: 44170K->44170K(135168K)
+[101116ms] GC(22) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.173ms
+[101116ms] GC(22) User=0.02s Sys=0.00s Real=0.01s
+[102974ms] GC(23) Pause Young (Normal) (G1 Evacuation Pause)
+[102974ms] GC(23) Using 10 workers of 10 for evacuation
+[102976ms] GC(23)   Pre Evacuate Collection Set: 0.0ms
+[102976ms] GC(23)   Evacuate Collection Set: 1.1ms
+[102976ms] GC(23)   Post Evacuate Collection Set: 0.6ms
+[102976ms] GC(23)   Other: 0.4ms
+[102976ms] GC(23) Eden regions: 1256->0(1256)
+[102976ms] GC(23) Survivor regions: 1->1(158)
+[102976ms] GC(23) Old regions: 22->22
+[102976ms] GC(23) Humongous regions: 0->0
+[102976ms] GC(23) Metaspace: 44170K->44170K(135168K)
+[102976ms] GC(23) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.281ms
+[102976ms] GC(23) User=0.01s Sys=0.00s Real=0.01s
+[104893ms] GC(24) Pause Young (Normal) (G1 Evacuation Pause)
+[104893ms] GC(24) Using 10 workers of 10 for evacuation
+[104896ms] GC(24)   Pre Evacuate Collection Set: 0.0ms
+[104896ms] GC(24)   Evacuate Collection Set: 1.0ms
+[104896ms] GC(24)   Post Evacuate Collection Set: 0.7ms
+[104896ms] GC(24)   Other: 0.5ms
+[104896ms] GC(24) Eden regions: 1256->0(1256)
+[104896ms] GC(24) Survivor regions: 1->1(158)
+[104896ms] GC(24) Old regions: 22->22
+[104896ms] GC(24) Humongous regions: 0->0
+[104896ms] GC(24) Metaspace: 44170K->44170K(135168K)
+[104896ms] GC(24) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.301ms
+[104896ms] GC(24) User=0.01s Sys=0.00s Real=0.01s
+[106770ms] GC(25) Pause Young (Normal) (G1 Evacuation Pause)
+[106770ms] GC(25) Using 10 workers of 10 for evacuation
+[106773ms] GC(25)   Pre Evacuate Collection Set: 0.0ms
+[106773ms] GC(25)   Evacuate Collection Set: 1.4ms
+[106773ms] GC(25)   Post Evacuate Collection Set: 0.7ms
+[106773ms] GC(25)   Other: 0.4ms
+[106773ms] GC(25) Eden regions: 1256->0(1256)
+[106773ms] GC(25) Survivor regions: 1->1(158)
+[106773ms] GC(25) Old regions: 22->22
+[106773ms] GC(25) Humongous regions: 0->0
+[106773ms] GC(25) Metaspace: 44176K->44176K(135168K)
+[106773ms] GC(25) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.550ms
+[106773ms] GC(25) User=0.02s Sys=0.00s Real=0.00s
+[109271ms] GC(26) Pause Young (Normal) (G1 Evacuation Pause)
+[109271ms] GC(26) Using 10 workers of 10 for evacuation
+[109273ms] GC(26)   Pre Evacuate Collection Set: 0.0ms
+[109273ms] GC(26)   Evacuate Collection Set: 1.0ms
+[109273ms] GC(26)   Post Evacuate Collection Set: 0.7ms
+[109273ms] GC(26)   Other: 0.5ms
+[109273ms] GC(26) Eden regions: 1256->0(1256)
+[109273ms] GC(26) Survivor regions: 1->1(158)
+[109273ms] GC(26) Old regions: 22->22
+[109273ms] GC(26) Humongous regions: 0->0
+[109273ms] GC(26) Metaspace: 44176K->44176K(135168K)
+[109273ms] GC(26) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.308ms
+[109273ms] GC(26) User=0.01s Sys=0.00s Real=0.00s
+[111213ms] GC(27) Pause Young (Normal) (G1 Evacuation Pause)
+[111213ms] GC(27) Using 10 workers of 10 for evacuation
+[111215ms] GC(27)   Pre Evacuate Collection Set: 0.0ms
+[111215ms] GC(27)   Evacuate Collection Set: 0.9ms
+[111215ms] GC(27)   Post Evacuate Collection Set: 0.7ms
+[111215ms] GC(27)   Other: 0.4ms
+[111215ms] GC(27) Eden regions: 1256->0(1256)
+[111215ms] GC(27) Survivor regions: 1->1(158)
+[111215ms] GC(27) Old regions: 22->22
+[111215ms] GC(27) Humongous regions: 0->0
+[111215ms] GC(27) Metaspace: 44176K->44176K(135168K)
+[111215ms] GC(27) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.042ms
+[111215ms] GC(27) User=0.01s Sys=0.01s Real=0.00s
+[113121ms] GC(28) Pause Young (Normal) (G1 Evacuation Pause)
+[113121ms] GC(28) Using 10 workers of 10 for evacuation
+[113123ms] GC(28)   Pre Evacuate Collection Set: 0.0ms
+[113123ms] GC(28)   Evacuate Collection Set: 1.1ms
+[113123ms] GC(28)   Post Evacuate Collection Set: 0.6ms
+[113124ms] GC(28)   Other: 0.4ms
+[113124ms] GC(28) Eden regions: 1256->0(1256)
+[113124ms] GC(28) Survivor regions: 1->1(158)
+[113124ms] GC(28) Old regions: 22->22
+[113124ms] GC(28) Humongous regions: 0->0
+[113124ms] GC(28) Metaspace: 44176K->44176K(135168K)
+[113124ms] GC(28) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.204ms
+[113124ms] GC(28) User=0.01s Sys=0.00s Real=0.00s
+[115032ms] GC(29) Pause Young (Normal) (G1 Evacuation Pause)
+[115032ms] GC(29) Using 10 workers of 10 for evacuation
+[115034ms] GC(29)   Pre Evacuate Collection Set: 0.0ms
+[115034ms] GC(29)   Evacuate Collection Set: 0.9ms
+[115034ms] GC(29)   Post Evacuate Collection Set: 0.7ms
+[115034ms] GC(29)   Other: 0.4ms
+[115034ms] GC(29) Eden regions: 1256->0(1256)
+[115034ms] GC(29) Survivor regions: 1->1(158)
+[115034ms] GC(29) Old regions: 22->22
+[115034ms] GC(29) Humongous regions: 0->0
+[115034ms] GC(29) Metaspace: 44183K->44183K(135168K)
+[115034ms] GC(29) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.029ms
+[115034ms] GC(29) User=0.02s Sys=0.00s Real=0.00s
+[117163ms] GC(30) Pause Young (Normal) (G1 Evacuation Pause)
+[117163ms] GC(30) Using 10 workers of 10 for evacuation
+[117165ms] GC(30)   Pre Evacuate Collection Set: 0.0ms
+[117165ms] GC(30)   Evacuate Collection Set: 0.9ms
+[117165ms] GC(30)   Post Evacuate Collection Set: 0.6ms
+[117165ms] GC(30)   Other: 0.4ms
+[117165ms] GC(30) Eden regions: 1256->0(1256)
+[117165ms] GC(30) Survivor regions: 1->1(158)
+[117165ms] GC(30) Old regions: 22->22
+[117165ms] GC(30) Humongous regions: 0->0
+[117165ms] GC(30) Metaspace: 44183K->44183K(135168K)
+[117166ms] GC(30) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.081ms
+[117166ms] GC(30) User=0.01s Sys=0.00s Real=0.01s
+[119036ms] GC(31) Pause Young (Normal) (G1 Evacuation Pause)
+[119036ms] GC(31) Using 10 workers of 10 for evacuation
+[119038ms] GC(31)   Pre Evacuate Collection Set: 0.0ms
+[119038ms] GC(31)   Evacuate Collection Set: 0.9ms
+[119038ms] GC(31)   Post Evacuate Collection Set: 0.8ms
+[119038ms] GC(31)   Other: 0.4ms
+[119038ms] GC(31) Eden regions: 1256->0(1256)
+[119038ms] GC(31) Survivor regions: 1->1(158)
+[119038ms] GC(31) Old regions: 22->22
+[119038ms] GC(31) Humongous regions: 0->0
+[119038ms] GC(31) Metaspace: 44183K->44183K(135168K)
+[119038ms] GC(31) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.235ms
+[119038ms] GC(31) User=0.01s Sys=0.00s Real=0.00s
+[121115ms] GC(32) Pause Young (Normal) (G1 Evacuation Pause)
+[121115ms] GC(32) Using 10 workers of 10 for evacuation
+[121117ms] GC(32)   Pre Evacuate Collection Set: 0.0ms
+[121118ms] GC(32)   Evacuate Collection Set: 1.2ms
+[121118ms] GC(32)   Post Evacuate Collection Set: 0.8ms
+[121118ms] GC(32)   Other: 0.5ms
+[121118ms] GC(32) Eden regions: 1256->0(1256)
+[121118ms] GC(32) Survivor regions: 1->1(158)
+[121118ms] GC(32) Old regions: 22->22
+[121118ms] GC(32) Humongous regions: 0->0
+[121118ms] GC(32) Metaspace: 44184K->44184K(135168K)
+[121118ms] GC(32) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.625ms
+[121118ms] GC(32) User=0.01s Sys=0.00s Real=0.01s
+[123098ms] GC(33) Pause Young (Normal) (G1 Evacuation Pause)
+[123098ms] GC(33) Using 10 workers of 10 for evacuation
+[123100ms] GC(33)   Pre Evacuate Collection Set: 0.1ms
+[123100ms] GC(33)   Evacuate Collection Set: 0.9ms
+[123100ms] GC(33)   Post Evacuate Collection Set: 0.6ms
+[123100ms] GC(33)   Other: 0.5ms
+[123100ms] GC(33) Eden regions: 1256->0(1256)
+[123100ms] GC(33) Survivor regions: 1->1(158)
+[123100ms] GC(33) Old regions: 22->22
+[123100ms] GC(33) Humongous regions: 0->0
+[123100ms] GC(33) Metaspace: 44184K->44184K(135168K)
+[123100ms] GC(33) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 2.164ms
+[123100ms] GC(33) User=0.01s Sys=0.00s Real=0.00s
+[125008ms] GC(34) Pause Young (Normal) (G1 Evacuation Pause)
+[125008ms] GC(34) Using 10 workers of 10 for evacuation
+[125010ms] GC(34)   Pre Evacuate Collection Set: 0.0ms
+[125010ms] GC(34)   Evacuate Collection Set: 0.9ms
+[125010ms] GC(34)   Post Evacuate Collection Set: 0.6ms
+[125010ms] GC(34)   Other: 0.4ms
+[125010ms] GC(34) Eden regions: 1256->0(1256)
+[125010ms] GC(34) Survivor regions: 1->1(158)
+[125010ms] GC(34) Old regions: 22->22
+[125010ms] GC(34) Humongous regions: 0->0
+[125010ms] GC(34) Metaspace: 44184K->44184K(135168K)
+[125010ms] GC(34) Pause Young (Normal) (G1 Evacuation Pause) 2555M->43M(4192M) 1.962ms
+[125010ms] GC(34) User=0.01s Sys=0.00s Real=0.00s
+[222282ms] Heap
+[222283ms]  garbage-first heap   total 4292608K, used 193823K [0x00000006fa000000, 0x0000000800000000)
+[222283ms]   region size 2048K, 75 young (153600K), 1 survivors (2048K)
+[222283ms]  Metaspace       used 44404K, capacity 45572K, committed 45824K, reserved 135168K
+[222283ms]   class space    used 5079K, capacity 5528K, committed 5632K, reserved 94208K

@@ -1,0 +1,5 @@
+总结：
+1. SerialGC、ParallelGC 和 ConcMarkSweepGC 均在程序运行了300毫秒后开始发生GC行为，G1GC 在程序运行200多毫秒时便开始进行GC。
+2. G1GC 的 发生第一次 GC 时，Young 区的内存使用量比 SerialGC、ParallelGC 和 ConcMarkSweepGC 发生第一次 GC 时的内存都要少。
+3. SerialGC、ParallelGC 和 ConcMarkSweepGC 发生 GC 时的耗时都在 20 ~ 30 毫秒左右，而 G1GC 均在 10 毫秒以下。
+4.

@@ -1,0 +1,259 @@
+[13ms] Using Concurrent Mark Sweep
+[13ms] Heap address: 0x00000000e0000000, size: 512 MB, Compressed Oops mode: 32-bit
+[319ms] GC(0) Pause Young (Allocation Failure)
+[319ms] GC(0) Using 1 workers of 1 for evacuation
+[340ms] GC(0) ParNew: 68160K->8512K(76672K)
+[340ms] GC(0) CMS: 0K->17464K(439104K)
+[340ms] GC(0) Metaspace: 3891K->3891K(102400K)
+[340ms] GC(0) Pause Young (Allocation Failure) 66M->25M(503M) 21.187ms
+[340ms] GC(0) User=0.01s Sys=0.00s Real=0.02s
+[360ms] GC(1) Pause Young (Allocation Failure)
+[360ms] GC(1) Using 1 workers of 1 for evacuation
+[387ms] GC(1) ParNew: 76672K->8512K(76672K)
+[387ms] GC(1) CMS: 17464K->46157K(439104K)
+[387ms] GC(1) Metaspace: 3894K->3894K(102400K)
+[387ms] GC(1) Pause Young (Allocation Failure) 91M->53M(503M) 27.307ms
+[387ms] GC(1) User=0.02s Sys=0.01s Real=0.03s
+[401ms] GC(2) Pause Young (Allocation Failure)
+[401ms] GC(2) Using 1 workers of 1 for evacuation
+[421ms] GC(2) ParNew: 76672K->8512K(76672K)
+[421ms] GC(2) CMS: 46157K->74606K(439104K)
+[421ms] GC(2) Metaspace: 3894K->3894K(102400K)
+[421ms] GC(2) Pause Young (Allocation Failure) 119M->81M(503M) 19.834ms
+[421ms] GC(2) User=0.01s Sys=0.01s Real=0.02s
+[437ms] GC(3) Pause Young (Allocation Failure)
+[437ms] GC(3) Using 1 workers of 1 for evacuation
+[454ms] GC(3) ParNew: 76601K->8512K(76672K)
+[454ms] GC(3) CMS: 74606K->98608K(439104K)
+[454ms] GC(3) Metaspace: 3894K->3894K(102400K)
+[454ms] GC(3) Pause Young (Allocation Failure) 147M->104M(503M) 16.823ms
+[454ms] GC(3) User=0.01s Sys=0.01s Real=0.02s
+[468ms] GC(4) Pause Young (Allocation Failure)
+[468ms] GC(4) Using 1 workers of 1 for evacuation
+[486ms] GC(4) ParNew: 76380K->8512K(76672K)
+[486ms] GC(4) CMS: 98608K->123886K(439104K)
+[486ms] GC(4) Metaspace: 3894K->3894K(102400K)
+[486ms] GC(4) Pause Young (Allocation Failure) 170M->129M(503M) 18.174ms
+[486ms] GC(4) User=0.02s Sys=0.00s Real=0.02s
+[501ms] GC(5) Pause Young (Allocation Failure)
+[501ms] GC(5) Using 1 workers of 1 for evacuation
+[521ms] GC(5) ParNew: 76672K->8512K(76672K)
+[521ms] GC(5) CMS: 123886K->152867K(439104K)
+[521ms] GC(5) Metaspace: 3894K->3894K(102400K)
+[521ms] GC(5) Pause Young (Allocation Failure) 195M->157M(503M) 20.095ms
+[521ms] GC(5) User=0.01s Sys=0.00s Real=0.02s
+[534ms] GC(6) Pause Young (Allocation Failure)
+[534ms] GC(6) Using 1 workers of 1 for evacuation
+[552ms] GC(6) ParNew: 76672K->8512K(76672K)
+[552ms] GC(6) CMS: 152867K->180305K(439104K)
+[552ms] GC(6) Metaspace: 3894K->3894K(102400K)
+[552ms] GC(6) Pause Young (Allocation Failure) 224M->184M(503M) 18.126ms
+[552ms] GC(6) User=0.01s Sys=0.00s Real=0.01s
+[566ms] GC(7) Pause Young (Allocation Failure)
+[566ms] GC(7) Using 1 workers of 1 for evacuation
+[590ms] GC(7) ParNew: 76672K->8512K(76672K)
+[591ms] GC(7) CMS: 180305K->206391K(439104K)
+[591ms] GC(7) Metaspace: 3894K->3894K(102400K)
+[591ms] GC(7) Pause Young (Allocation Failure) 250M->209M(503M) 24.425ms
+[591ms] GC(7) User=0.02s Sys=0.00s Real=0.02s
+[605ms] GC(8) Pause Young (Allocation Failure)
+[605ms] GC(8) Using 1 workers of 1 for evacuation
+[626ms] GC(8) ParNew: 76672K->8512K(76672K)
+[626ms] GC(8) CMS: 206391K->239102K(439104K)
+[626ms] GC(8) Metaspace: 3894K->3894K(102400K)
+[626ms] GC(8) Pause Young (Allocation Failure) 276M->241M(503M) 20.909ms
+[626ms] GC(8) User=0.02s Sys=0.01s Real=0.02s
+[633ms] GC(9) Pause Initial Mark
+[633ms] GC(9) Pause Initial Mark 272M->272M(503M) 0.346ms
+[633ms] GC(9) User=0.00s Sys=0.00s Real=0.00s
+[633ms] GC(9) Concurrent Mark
+[644ms] GC(9) Concurrent Mark 10.893ms
+[644ms] GC(9) User=0.01s Sys=0.00s Real=0.01s
+[644ms] GC(9) Concurrent Preclean
+[645ms] GC(9) Concurrent Preclean 0.768ms
+[645ms] GC(9) User=0.00s Sys=0.00s Real=0.00s
+[645ms] GC(9) Concurrent Abortable Preclean
+[650ms] GC(10) Pause Young (Allocation Failure)
+[650ms] GC(10) Using 1 workers of 1 for evacuation
+[670ms] GC(10) ParNew: 76529K->8512K(76672K)
+[670ms] GC(10) CMS: 239102K->270126K(439104K)
+[670ms] GC(10) Metaspace: 3894K->3894K(102400K)
+[670ms] GC(10) Pause Young (Allocation Failure) 308M->272M(503M) 20.501ms
+[670ms] GC(10) User=0.01s Sys=0.01s Real=0.02s
+[689ms] GC(11) Pause Young (Allocation Failure)
+[690ms] GC(11) Using 1 workers of 1 for evacuation
+[708ms] GC(11) ParNew: 76672K->8512K(76672K)
+[708ms] GC(11) CMS: 270126K->297783K(439104K)
+[708ms] GC(11) Metaspace: 3894K->3894K(102400K)
+[708ms] GC(11) Pause Young (Allocation Failure) 338M->299M(503M) 18.888ms
+[708ms] GC(11) User=0.01s Sys=0.01s Real=0.02s
+[722ms] GC(9) Concurrent Abortable Preclean 77.499ms
+[722ms] GC(9) User=0.04s Sys=0.03s Real=0.08s
+[728ms] GC(9) Pause Remark
+[730ms] GC(9) Pause Remark 332M->332M(503M) 1.911ms
+[730ms] GC(9) User=0.01s Sys=0.00s Real=0.00s
+[730ms] GC(9) Concurrent Sweep
+[730ms] GC(9) Concurrent Sweep 0.695ms
+[731ms] GC(9) User=0.00s Sys=0.00s Real=0.00s
+[731ms] GC(9) Concurrent Reset
+[737ms] GC(9) Concurrent Reset 6.498ms
+[737ms] GC(9) User=0.00s Sys=0.01s Real=0.01s
+[737ms] GC(9) Old: 239102K->231962K(439104K)
+[742ms] GC(12) Pause Young (Allocation Failure)
+[742ms] GC(12) Using 1 workers of 1 for evacuation
+[749ms] GC(12) ParNew: 76672K->8512K(76672K)
+[749ms] GC(12) CMS: 231962K->257358K(439104K)
+[749ms] GC(12) Metaspace: 3894K->3894K(102400K)
+[749ms] GC(12) Pause Young (Allocation Failure) 301M->259M(503M) 7.538ms
+[749ms] GC(12) User=0.00s Sys=0.00s Real=0.01s
+[764ms] GC(13) Pause Young (Allocation Failure)
+[764ms] GC(13) Using 1 workers of 1 for evacuation
+[772ms] GC(13) ParNew: 76672K->8512K(76672K)
+[772ms] GC(13) CMS: 257358K->286095K(439104K)
+[772ms] GC(13) Metaspace: 3894K->3894K(102400K)
+[772ms] GC(13) Pause Young (Allocation Failure) 326M->287M(503M) 7.749ms
+[772ms] GC(13) User=0.01s Sys=0.00s Real=0.00s
+[778ms] GC(14) Pause Initial Mark
+[779ms] GC(14) Pause Initial Mark 318M->318M(503M) 0.275ms
+[779ms] GC(14) User=0.00s Sys=0.00s Real=0.00s
+[779ms] GC(14) Concurrent Mark
+[782ms] GC(14) Concurrent Mark 3.511ms
+[782ms] GC(14) User=0.00s Sys=0.00s Real=0.00s
+[782ms] GC(14) Concurrent Preclean
+[783ms] GC(14) Concurrent Preclean 0.693ms
+[783ms] GC(14) User=0.00s Sys=0.00s Real=0.00s
+[783ms] GC(14) Concurrent Abortable Preclean
+[792ms] GC(15) Pause Young (Allocation Failure)
+[792ms] GC(15) Using 1 workers of 1 for evacuation
+[804ms] GC(15) ParNew: 76672K->8512K(76672K)
+[804ms] GC(15) CMS: 286095K->307595K(439104K)
+[804ms] GC(15) Metaspace: 3894K->3894K(102400K)
+[804ms] GC(15) Pause Young (Allocation Failure) 354M->308M(503M) 11.546ms
+[804ms] GC(15) User=0.01s Sys=0.00s Real=0.02s
+[823ms] GC(16) Pause Young (Allocation Failure)
+[823ms] GC(16) Using 1 workers of 1 for evacuation
+[840ms] GC(16) ParNew: 76603K->8512K(76672K)
+[840ms] GC(16) CMS: 307595K->332501K(439104K)
+[840ms] GC(16) Metaspace: 3894K->3894K(102400K)
+[840ms] GC(16) Pause Young (Allocation Failure) 375M->333M(503M) 16.782ms
+[840ms] GC(16) User=0.01s Sys=0.01s Real=0.01s
+[853ms] GC(14) Concurrent Abortable Preclean 69.354ms
+[853ms] GC(14) User=0.04s Sys=0.03s Real=0.07s
+[853ms] GC(14) Pause Remark
+[854ms] GC(14) Pause Remark 366M->366M(503M) 1.613ms
+[855ms] GC(14) User=0.00s Sys=0.00s Real=0.00s
+[855ms] GC(14) Concurrent Sweep
+[856ms] GC(14) Concurrent Sweep 0.845ms
+[856ms] GC(14) User=0.00s Sys=0.00s Real=0.00s
+[856ms] GC(14) Concurrent Reset
+[856ms] GC(14) Concurrent Reset 0.528ms
+[856ms] GC(14) User=0.00s Sys=0.00s Real=0.00s
+[856ms] GC(14) Old: 286095K->272049K(439104K)
+[863ms] GC(17) Pause Young (Allocation Failure)
+[863ms] GC(17) Using 1 workers of 1 for evacuation
+[870ms] GC(17) ParNew: 76498K->8512K(76672K)
+[870ms] GC(17) CMS: 272049K->295907K(439104K)
+[870ms] GC(17) Metaspace: 3894K->3894K(102400K)
+[870ms] GC(17) Pause Young (Allocation Failure) 340M->297M(503M) 7.002ms
+[870ms] GC(17) User=0.01s Sys=0.00s Real=0.00s
+[887ms] GC(18) Pause Young (Allocation Failure)
+[887ms] GC(18) Using 1 workers of 1 for evacuation
+[895ms] GC(18) ParNew: 76558K->8512K(76672K)
+[895ms] GC(18) CMS: 295907K->324213K(439104K)
+[895ms] GC(18) Metaspace: 3894K->3894K(102400K)
+[895ms] GC(18) Pause Young (Allocation Failure) 363M->324M(503M) 7.963ms
+[895ms] GC(18) User=0.01s Sys=0.00s Real=0.01s
+[902ms] GC(19) Pause Initial Mark
+[902ms] GC(19) Pause Initial Mark 341M->341M(503M) 0.237ms
+[902ms] GC(19) User=0.00s Sys=0.00s Real=0.00s
+[902ms] GC(19) Concurrent Mark
+[909ms] GC(19) Concurrent Mark 6.641ms
+[909ms] GC(19) User=0.01s Sys=0.00s Real=0.01s
+[909ms] GC(19) Concurrent Preclean
+[910ms] GC(19) Concurrent Preclean 0.738ms
+[910ms] GC(19) User=0.00s Sys=0.00s Real=0.00s
+[910ms] GC(19) Concurrent Abortable Preclean
+[918ms] GC(20) Pause Young (Allocation Failure)
+[918ms] GC(20) Using 1 workers of 1 for evacuation
+[934ms] GC(20) ParNew: 76636K->8512K(76672K)
+[934ms] GC(20) CMS: 324213K->351329K(439104K)
+[934ms] GC(20) Metaspace: 3894K->3894K(102400K)
+[934ms] GC(20) Pause Young (Allocation Failure) 391M->351M(503M) 16.384ms
+[934ms] GC(20) User=0.02s Sys=0.01s Real=0.02s
+[955ms] GC(21) Pause Young (Allocation Failure)
+[955ms] GC(21) Using 1 workers of 1 for evacuation
+[975ms] GC(21) ParNew: 76672K->8512K(76672K)
+[975ms] GC(21) CMS: 351329K->380907K(439104K)
+[975ms] GC(21) Metaspace: 3894K->3894K(102400K)
+[975ms] GC(21) Pause Young (Allocation Failure) 417M->380M(503M) 19.795ms
+[975ms] GC(21) User=0.01s Sys=0.01s Real=0.02s
+[995ms] GC(22) Pause Young (Allocation Failure)
+[995ms] GC(22) Using 1 workers of 1 for evacuation
+[1041ms] GC(22) ParNew: 76215K->8512K(76672K)
+[1041ms] GC(22) CMS: 380907K->406000K(439104K)
+[1041ms] GC(22) Metaspace: 3894K->3894K(102400K)
+[1041ms] GC(22) Pause Young (Allocation Failure) 446M->404M(503M) 45.958ms
+[1041ms] GC(22) User=0.03s Sys=0.01s Real=0.04s
+[1061ms] GC(23) Pause Young (Allocation Failure)
+[1061ms] GC(23) Using 1 workers of 1 for evacuation
+[1138ms] GC(23) ParNew: 76601K->8512K(76672K)
+[1138ms] GC(23) CMS: 406000K->430436K(439104K)
+[1138ms] GC(23) Metaspace: 3894K->3894K(102400K)
+[1138ms] GC(23) Pause Young (Allocation Failure) 471M->428M(503M) 77.085ms
+[1138ms] GC(23) User=0.06s Sys=0.02s Real=0.08s
+[1138ms] GC(19) Concurrent Abortable Preclean 228.197ms
+[1138ms] GC(19) User=0.15s Sys=0.07s Real=0.23s
+[1145ms] GC(19) Pause Remark
+[1146ms] GC(19) Pause Remark 462M->462M(503M) 1.448ms
+[1146ms] GC(19) User=0.00s Sys=0.00s Real=0.00s
+[1147ms] GC(19) Concurrent Sweep
+[1147ms] GC(19) Concurrent Sweep 0.860ms
+[1147ms] GC(19) User=0.00s Sys=0.00s Real=0.00s
+[1148ms] GC(19) Concurrent Reset
+[1148ms] GC(19) Concurrent Reset 0.522ms
+[1148ms] GC(19) User=0.00s Sys=0.00s Real=0.00s
+[1148ms] GC(19) Old: 324213K->361532K(439104K)
+[1153ms] GC(24) Pause Young (Allocation Failure)
+[1153ms] GC(24) Using 1 workers of 1 for evacuation
+[1161ms] GC(24) ParNew: 76672K->8512K(76672K)
+[1162ms] GC(24) CMS: 361532K->393103K(439104K)
+[1162ms] GC(24) Metaspace: 3894K->3894K(102400K)
+[1162ms] GC(24) Pause Young (Allocation Failure) 427M->392M(503M) 8.221ms
+[1162ms] GC(24) User=0.01s Sys=0.00s Real=0.00s
+[1171ms] GC(25) Pause Initial Mark
+[1172ms] GC(25) Pause Initial Mark 427M->427M(503M) 0.460ms
+[1172ms] GC(25) User=0.00s Sys=0.00s Real=0.00s
+[1172ms] GC(25) Concurrent Mark
+[1175ms] GC(25) Concurrent Mark 3.534ms
+[1175ms] GC(25) User=0.00s Sys=0.00s Real=0.01s
+[1175ms] GC(25) Concurrent Preclean
+[1176ms] GC(25) Concurrent Preclean 0.629ms
+[1176ms] GC(25) User=0.00s Sys=0.00s Real=0.00s
+[1176ms] GC(25) Concurrent Abortable Preclean
+[1184ms] GC(26) Pause Young (Allocation Failure)
+[1184ms] GC(26) Using 1 workers of 1 for evacuation
+[1191ms] GC(26) ParNew: 76197K->8512K(76672K)
+[1191ms] GC(26) CMS: 393103K->419496K(439104K)
+[1191ms] GC(26) Metaspace: 3894K->3894K(102400K)
+[1191ms] GC(26) Pause Young (Allocation Failure) 458M->417M(503M) 7.614ms
+[1191ms] GC(26) User=0.01s Sys=0.00s Real=0.00s
+[1288ms] GC(25) Concurrent Abortable Preclean 112.162ms
+[1288ms] GC(25) User=0.08s Sys=0.03s Real=0.11s
+[1288ms] GC(25) Pause Remark
+[1291ms] GC(25) Pause Remark 421M->421M(503M) 2.055ms
+[1291ms] GC(25) User=0.01s Sys=0.00s Real=0.00s
+[1291ms] GC(25) Concurrent Sweep
+[1292ms] GC(25) Concurrent Sweep 1.141ms
+[1292ms] GC(25) User=0.00s Sys=0.00s Real=0.00s
+[1292ms] GC(25) Concurrent Reset
+[1293ms] GC(25) Concurrent Reset 0.615ms
+[1293ms] GC(25) User=0.00s Sys=0.00s Real=0.01s
+[1293ms] GC(25) Old: 393103K->303439K(439104K)
+[1293ms] Heap
+[1293ms]  par new generation   total 76672K, used 12187K [0x00000000e0000000, 0x00000000e5330000, 0x00000000e5330000)
+[1293ms]   eden space 68160K,   5% used [0x00000000e0000000, 0x00000000e0396e50, 0x00000000e4290000)
+[1293ms]   from space 8512K, 100% used [0x00000000e4ae0000, 0x00000000e5330000, 0x00000000e5330000)
+[1293ms]   to   space 8512K,   0% used [0x00000000e4290000, 0x00000000e4290000, 0x00000000e4ae0000)
+[1293ms]  concurrent mark-sweep generation total 439104K, used 303439K [0x00000000e5330000, 0x0000000100000000, 0x0000000100000000)
+[1293ms]  Metaspace       used 4903K, capacity 4957K, committed 5120K, reserved 102400K
+[1293ms]   class space    used 404K, capacity 444K, committed 512K, reserved 94208K
