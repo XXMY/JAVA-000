@@ -33,10 +33,10 @@ CREATE TABLE `orders` (
   `sku_id` varchar(16) DEFAULT NULL,
   `num` int(11) DEFAULT NULL,
   `price` int(11) DEFAULT NULL,
-  `details` varchar(64) DEFAULT NULL COMMENT '商品描述',
+  `order_status` tinyint(4) DEFAULT NULL COMMENT '0: 等待支付, 1: 支付完成, 2: 已退款',
   `create_time` datetime DEFAULT NULL,
   PRIMARY KEY (`id`),
   KEY `create_time_index` (`create_time`),
   KEY `order_key_index` (`order_key`),
   KEY `user_key_index` (`user_key`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
